@@ -7,19 +7,14 @@
   font-family: "Concert One", system-ui;
 }
 
-body {
-  height: 100dvh;
-  background-image: url("/src/assets/bg.svg");
-  background-attachment: fixed;
-  background-repeat: no-repeat;
-  background-size: cover;
-  background-position: center;
-}
-
 /* For mobile */
 @media (max-width: 768px) {
   html {
     background-image: url("/src/assets/bg.svg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
   }
 }
 
@@ -27,5 +22,9 @@ body {
 @media (min-width: 769px) {
   html {
     background-image: url("/src/assets/bg-desktop.svg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
   }
 }
