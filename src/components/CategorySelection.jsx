@@ -9,7 +9,7 @@ export const CategorySelection = ({
     <div className="flex  flex-row  space-x-4 my-4 overflow-x-auto md:justify-center ">
       {availableCategories.includes("Todos") && (
         <button
-          className={`px-2 py-2 rounded-lg transition-colors duration-200 ${
+          className={`px-2 py-2 rounded-lg font-bold transition-colors duration-200 ${
             selectedCategory === "Todos"
               ? "bg-blue-500 text-white"
               : "bg-gray-200 text-black hover:bg-blue-300"
