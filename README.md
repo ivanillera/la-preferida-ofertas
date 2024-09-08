@@ -21,8 +21,8 @@ Esta página permite mostrar las Ofertas de La Preferida y filtrarlas por catego
 
 ## Capturas
 
-![Captura del sitio](https://imgur.com/a/QfTbicG)
-![Captura del sitio] (https://imgur.com/a/Q2hxfjn)
+![Captura en Desktop](https://imgur.com/a/QfTbicG)
+![Captura en Móvil](https://imgur.com/a/Q2hxfjn)
 
 ## Plugins oficiales de Vite
 
