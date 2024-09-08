@@ -13,7 +13,6 @@
     background-image: url("/src/assets/bg.svg");
     background-repeat: no-repeat;
     background-size: auto;
-    background-position: center;
     background-attachment: fixed;
   }
 }
