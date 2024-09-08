@@ -1,0 +1,30 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  font-family: "Concert One", system-ui;
+}
+
+html {
+  height: 100vh;
+  background-image: url("/src/assets/bg.svg");
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+/* For mobile */
+@media (max-width: 768px) {
+  html {
+    background-image: url("/src/assets/bg.svg");
+  }
+}
+
+/* For desktop */
+@media (min-width: 769px) {
+  html {
+    background-image: url("/src/assets/bg-desktop.svg");
+  }
+}
