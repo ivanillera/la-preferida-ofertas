@@ -17,12 +17,7 @@ Esta página permite mostrar las Ofertas de La Preferida y filtrarlas por catego
    npm run dev
    ```
 
-4. Abre en tu navegador: [http://localhost:5173](http://localhost:5173).
-
-## Capturas
-
-![Captura en Desktop](https://imgur.com/a/QfTbicG)
-![Captura en Móvil](https://imgur.com/a/Q2hxfjn)
+4. Abre en tu navegador: [http://localhost:5173](http://localhost:5173) o el puerto elegido.
 
 ## Plugins oficiales de Vite
 
