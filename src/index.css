@@ -10,8 +10,8 @@
 /* For mobile */
 @media (max-width: 768px) {
   html {
-    background-image: url("/src/assets/bg.svg");
-    background-repeat: no-repeat;
+    background-image: url("/src/assets/bg-repeat.png");
+    background-repeat: repeat-y;
     background-size: auto;
     background-attachment: fixed, local;
   }
