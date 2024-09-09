@@ -102,7 +102,7 @@
     "title": "Noal Reggianito",
     "price": "$12900.00",
     "description": "Precio por Kilo",
-    "category": "Lácteos"
+    "category": "Fiambrería"
   },
   {
     "image": "https://gravitydevs.com/wproggiano/wp-content/uploads/2018/09/catalogo-1-1170x700.png",
@@ -116,7 +116,7 @@
     "title": "Noal Cremoso",
     "price": "$6990.00",
     "description": "Precio por Kilo",
-    "category": "Lácteos"
+    "category": "Fiambrería"
   },
   {
     "image": "https://i2.wp.com/chepocho.mgwebsite.com/wp-content/uploads/2022/02/ossobuco_-_blog.jpg?fit=800%2C533&ssl=1",
@@ -133,11 +133,46 @@
     "category": "Carnicería"
   },
   {
+    "image": "https://scontent.ffdo24-3.fna.fbcdn.net/v/t1.6435-9/63056231_2404280406282251_532323430691766272_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=0327a3&_nc_ohc=86dE-t1OCc8Q7kNvgHzObUe&_nc_ht=scontent.ffdo24-3.fna&_nc_gid=AjQYYyku6HEdn8S28NTdxyW&oh=00_AYDIhbNXZ_Kq7AwIRP_o1NRc0UkSZkjMcqqdEVM92fWO-w&oe=6706B5DD",
+    "title": "Tapalqué Bondiola",
+    "price": "$1550.00",
+    "description": "Precio por 100g",
+    "category": "Fiambrería"
+  },
+  {
+    "image": "https://acdn.mitiendanube.com/stores/001/157/846/products/diseno-sin-titulo-211-8b2e62aa6c80ef261916572847263012-1024-1024.png",
+    "title": "Exposición Lomo Ahumado",
+    "price": "$1420.00",
+    "description": "Precio por 100g",
+    "category": "Fiambrería"
+  },
+  {
+    "image": "https://acdn.mitiendanube.com/stores/001/157/846/products/diseno-sin-titulo-211-8b2e62aa6c80ef261916572847263012-1024-1024.png",
+    "title": "Punta de Agua Queso Fynbo",
+    "price": "$1250.00",
+    "description": "Precio por 100g",
+    "category": "Fiambrería"
+  },
+  {
+    "image": "https://www.nutricionyentrenamiento.fit/images/alimento/363.jpg",
+    "title": "Dulcor Membrillo Light",
+    "price": "$3490.00",
+    "description": "Precio por Kilo",
+    "category": "Fiambrería"
+  },
+  {
     "image": "https://www.lasrosas.com.ar/portal/wp-content/uploads/HNK-710.jpg",
     "title": "Heineken Lata 710cc",
     "price": "$2790.00",
     "description": "",
     "category": "Almacén"
+  },
+  {
+    "image": "https://i0.wp.com/cremigal.com/wp-content/uploads/2021/01/fla-pote.png?fit=2500%2C2500&ssl=1",
+    "title": "Flan Cremigal",
+    "price": "4 x 3",
+    "description": "Llevá 4, pagá 3",
+    "category": "Lácteos"
   },
   {
     "image": "https://masonlineprod.vtexassets.com/arquivos/ids/164619/Aceite-Oliva-Extra-Virgen-Nucete-500-Cc-1-14734.jpg?v=637835135954930000",
