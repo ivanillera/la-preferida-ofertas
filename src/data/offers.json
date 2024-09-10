@@ -69,13 +69,7 @@
     "description": "Milkaut UAT Entera y Descremada",
     "category": "Lácteos"
   },
-  {
-    "image": "https://borrachines.com.ar/wp-content/uploads/2022/06/Villa-Del-Sur-Agua-Mineral-Natural-Sin-Gas-Pet-1650ml-01-Mercado.png",
-    "title": "Villa del Sur 1650cc",
-    "price": "$799.00",
-    "description": "",
-    "category": "Almacén"
-  },
+
   {
     "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUsJZPFKjsQsNZFUvzGzREtQOs7sdHd-IAfQ&s",
     "title": "Celestial 6 LTS",
@@ -179,13 +173,6 @@
     "title": "Nucete Oliva 500ml",
     "price": "$10900.00",
     "description": "Nucete Aceite de Oliva Extra Virgen 500ml",
-    "category": "Almacén"
-  },
-  {
-    "image": "https://statics.dinoonline.com.ar/imagenes/full_600x600_ma/2350150_f.jpg",
-    "title": "Cumaná Tomate Lata",
-    "price": "$1050.00",
-    "description": "Cumaná Tomate Perita en Lata 500g",
     "category": "Almacén"
   }
 ]
