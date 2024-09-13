@@ -1,10 +1,94 @@
 [
   {
     "image": "https://cremigal.com/wp-content/uploads/2021/05/leche-entera-sachet-1L-1.png",
-    "title": "Cremigal Leche - Súper Oferta",
+    "title": "Cremigal Leche",
     "price": "$1190.00",
     "description": "Cremigal Leche Sachet Entera y Descremada",
     "category": "Lácteos"
+  },
+  {
+    "image": "https://www.maxidescuento.com.ar/580-large_default/querubin-jabliqdoypx-3l-7791905003366.jpg",
+    "title": "Querubín Jabón Líquido",
+    "price": "$6500.00",
+    "description": "Doypack 3000cc",
+    "category": "Almacén"
+  },
+  {
+    "image": "https://www.elpalaciodelalimpieza.com.ar/media/catalog/product/cache/5a38f6614905178fa07804facc7b33a0/1/0/10036_2024-04-09_11_48_15_.png",
+    "title": "Polyana Aero Mujer",
+    "price": "$1790.00",
+    "description": "Antitranspirante Aerosol Mujer",
+    "category": "Almacén"
+  },
+  {
+    "image": "https://www.rimoldimayorista.com.ar/datos/uploads/mod_catalogo/31308/procenex-900ml-6035245e8696b_thumbnail.png?t=1614095454",
+    "title": "Procenex Limpiador Líquido",
+    "price": "$1190.00",
+    "description": "900cc - Fragancias Varias",
+    "category": "Almacén"
+  },
+  {
+    "image": "https://acdn.mitiendanube.com/stores/798/865/products/123929724-470061fb844c5bab7016844789900140-640-0.jpg",
+    "title": "Secco Sifón 2L",
+    "price": "$895.00",
+    "description": "Secco Sifón 2 Litros",
+    "category": "Almacén"
+  },
+  {
+    "image": "https://acdn.mitiendanube.com/stores/001/172/405/products/rollo-de-cocina-cartabella1-df8570140c2e55beee16001022792981-640-0.png",
+    "title": "Cartabella Rollo de Cocina x3",
+    "price": "$1390.00",
+    "description": "",
+    "category": "Almacén"
+  },
+  {
+    "image": "https://www.distribuidorasabatini.com/app/files/company_23/products/136086_7790313000028.jpg",
+    "title": "La Colina Duraznos 410g",
+    "price": "$990.00",
+    "description": "La Colina Duraznos Trozos 410g",
+    "category": "Almacén"
+  },
+  {
+    "image": "https://d1on8qs0xdu5jz.cloudfront.net/webapp/images/productos/b/0000003000/3348.jpg",
+    "title": "Guaymallen Alfajores x6",
+    "price": "$1550.00",
+    "description": "Guaymallen Alfajores x6 Unidades",
+    "category": "Almacén"
+  },
+  {
+    "image": "https://masonlineprod.vtexassets.com/arquivos/ids/278628/Mayonesa-Hellmanns-Liviana-Doypack-237g-1-40997.jpg?v=638168350368700000",
+    "title": "Hellmann's Liviana",
+    "price": "$790.00",
+    "description": "Doypack 237g",
+    "category": "Almacén"
+  },
+  {
+    "image": "https://cdn.batitienda.com/baticloud/images/product_picture_fac74747e2d24f36b0303e953f96b030_637857599714214058_0_m.webp",
+    "title": "L'eau Vive Coloración Kit",
+    "price": "$2200.00",
+    "description": "",
+    "category": "Almacén"
+  },
+  {
+    "image": "https://www.rimoldimayorista.com.ar/datos/uploads/mod_catalogo/31308/sedal-340-ml-sh-6065f352b1c37_thumbnail.png?t=1617294162",
+    "title": "Sedal 340cc",
+    "price": "$2990.00",
+    "description": "Sedal Shampoo y Enjuague 340cc",
+    "category": "Almacén"
+  },
+  {
+    "image": "https://http2.mlstatic.com/D_870990-MLA74781181923_022024-C.jpg",
+    "title": "Glaciar Bidón 6.5L",
+    "price": "$3990.00",
+    "description": "",
+    "category": "Almacén"
+  },
+  {
+    "image": "https://www.anikashop.com.ar/product_images/p/118/suiza-autobrillo-doy-400ml-incoloro__67617_zoom.png",
+    "title": "Suiza Autobrillo Pisos",
+    "price": "$1990.00",
+    "description": "Incoloro Doypack 400cc",
+    "category": "Almacén"
   },
   {
     "image": "https://lh6.googleusercontent.com/proxy/S3w4yd7ZztXATB7xmqFiR7PLH1Mx6Li4M05wkSZ9iFs2uIwmtiMPvZJwEcdsMo-IyBOXuVc4MbKz030aoPVpwmhG2lUmoEGhb96qWmMF3EE-mSI",
@@ -63,10 +147,10 @@
     "category": "Verdulería"
   },
   {
-    "image": "",
+    "image": "https://arjosimarprod.vteximg.com.br/arquivos/ids/155644-1000-1000/Manzana-Red-Deliciosa-Kg-1-5982.jpg?v=637377693662100000",
     "title": "Manzana Red",
     "price": "$1490.00",
-    "description": "",
+    "description": "Precio por Kilo",
     "category": "Verdulería"
   },
   {
@@ -136,22 +220,22 @@
   {
     "image": "https://scontent.ffdo24-3.fna.fbcdn.net/v/t1.6435-9/63056231_2404280406282251_532323430691766272_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=0327a3&_nc_ohc=86dE-t1OCc8Q7kNvgHzObUe&_nc_ht=scontent.ffdo24-3.fna&_nc_gid=AjQYYyku6HEdn8S28NTdxyW&oh=00_AYDIhbNXZ_Kq7AwIRP_o1NRc0UkSZkjMcqqdEVM92fWO-w&oe=6706B5DD",
     "title": "Tapalqué Bondiola",
-    "price": "$1550.00",
-    "description": "Precio por 100g",
+    "price": "$15500.00",
+    "description": "Precio por Kilo",
     "category": "Fiambrería"
   },
   {
     "image": "https://acdn.mitiendanube.com/stores/001/157/846/products/diseno-sin-titulo-211-8b2e62aa6c80ef261916572847263012-1024-1024.png",
     "title": "Exposición Lomo Ahumado",
-    "price": "$1420.00",
-    "description": "Precio por 100g",
+    "price": "$14200.00",
+    "description": "Precio por Kilo",
     "category": "Fiambrería"
   },
   {
     "image": "https://www.puntadelagua.com.ar/wp-content/uploads/2023/05/HORMA-FYMBO-400x400.png",
     "title": "Punta de Agua Queso Fynbo",
-    "price": "$1250.00",
-    "description": "Precio por 100g",
+    "price": "$12500.00",
+    "description": "Precio por Kilo",
     "category": "Fiambrería"
   },
   {
