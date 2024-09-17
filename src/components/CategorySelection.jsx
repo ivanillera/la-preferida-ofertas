@@ -91,6 +91,18 @@ export const CategorySelection = ({
           Lácteos
         </button>
       )}
+      {availableCategories.includes("Congelados") && (
+        <button
+          className={`px-4 py-2 rounded-lg font-bold transition-colors duration-200 ${
+            selectedCategory === "Congelados"
+              ? "bg-blue-500 text-white"
+              : "bg-gray-200 text-black hover:bg-blue-300"
+          }`}
+          onClick={() => handleCategoryClick("Congelados")}
+        >
+          Congelados
+        </button>
+      )}
     </div>
   );
 };
