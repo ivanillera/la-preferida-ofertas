@@ -323,23 +323,9 @@
     "category": "Almacén"
   },
   {
-    "image": "https://noalsa.com/wp-content/uploads/2021/01/queo-noal-reggianito-sin-pintar.jpg",
-    "title": "Noal Reggianito",
-    "price": "$12900.00",
-    "description": "Precio por Kilo",
-    "category": "Fiambrería"
-  },
-  {
     "image": "https://gravitydevs.com/wproggiano/wp-content/uploads/2018/09/catalogo-1-1170x700.png",
     "title": "Roggiano Jamón Natural",
     "price": "$12900.00",
-    "description": "Precio por Kilo",
-    "category": "Fiambrería"
-  },
-  {
-    "image": "https://noalsa.com/wp-content/uploads/2021/01/queso-noal-cremoso.jpg",
-    "title": "Noal Cremoso",
-    "price": "$6990.00",
     "description": "Precio por Kilo",
     "category": "Fiambrería"
   },
@@ -357,34 +343,15 @@
     "description": "Precio por Kilo",
     "category": "Carnicería"
   },
+
   {
-    "image": "https://scontent.ffdo24-3.fna.fbcdn.net/v/t1.6435-9/63056231_2404280406282251_532323430691766272_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=0327a3&_nc_ohc=86dE-t1OCc8Q7kNvgHzObUe&_nc_ht=scontent.ffdo24-3.fna&_nc_gid=AjQYYyku6HEdn8S28NTdxyW&oh=00_AYDIhbNXZ_Kq7AwIRP_o1NRc0UkSZkjMcqqdEVM92fWO-w&oe=6706B5DD",
-    "title": "Tapalqué Bondiola",
-    "price": "$15500.00",
+    "image": "https://acdn.mitiendanube.com/stores/003/184/367/products/panceta-ahumada1-4a3a2fd3624a8832a316865921866046-640-0.png",
+    "title": "Exposición Panceta Ahumada",
+    "price": "$12900.00",
     "description": "Precio por Kilo",
     "category": "Fiambrería"
   },
-  {
-    "image": "https://acdn.mitiendanube.com/stores/001/157/846/products/diseno-sin-titulo-211-8b2e62aa6c80ef261916572847263012-1024-1024.png",
-    "title": "Exposición Lomo Ahumado",
-    "price": "$14200.00",
-    "description": "Precio por Kilo",
-    "category": "Fiambrería"
-  },
-  {
-    "image": "https://www.puntadelagua.com.ar/wp-content/uploads/2023/05/HORMA-FYMBO-400x400.png",
-    "title": "Punta de Agua Queso Fynbo",
-    "price": "$12500.00",
-    "description": "Precio por Kilo",
-    "category": "Fiambrería"
-  },
-  {
-    "image": "https://www.nutricionyentrenamiento.fit/images/alimento/363.jpg",
-    "title": "Dulcor Membrillo Light",
-    "price": "$3490.00",
-    "description": "Precio por Kilo",
-    "category": "Fiambrería"
-  },
+
   {
     "image": "https://www.lasrosas.com.ar/portal/wp-content/uploads/HNK-710.jpg",
     "title": "Heineken Lata 710cc",
