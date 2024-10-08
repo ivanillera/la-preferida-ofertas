@@ -272,27 +272,7 @@
     "description": "Chenín / Cab. Sauv. / Malbec / Chard.",
     "category": "Almacén"
   },
-  {
-    "image": "https://statics.dinoonline.com.ar/imagenes/full_600x600_ma/3390613_f.jpg",
-    "title": "Papa Cepillada",
-    "price": "$1290.00",
-    "description": "Precio por Kilo",
-    "category": "Verdulería"
-  },
-  {
-    "image": "https://acdn.mitiendanube.com/stores/001/252/117/products/espinaca1-0834e1be8c9ac732e715939074486136-640-0.png",
-    "title": "Espinaca Paquete",
-    "price": "2 x $1000.00",
-    "description": "2 Paquetes por $1000",
-    "category": "Verdulería"
-  },
-  {
-    "image": "https://arjosimarprod.vteximg.com.br/arquivos/ids/155644-1000-1000/Manzana-Red-Deliciosa-Kg-1-5982.jpg?v=637377693662100000",
-    "title": "Manzana Red",
-    "price": "$1490.00",
-    "description": "Precio por Kilo",
-    "category": "Verdulería"
-  },
+
   {
     "image": "https://static.wixstatic.com/media/408ada_a2382399e370423f974bb1ce1ed2ffe1~mv2.jpg/v1/fill/w_480,h_320,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/408ada_a2382399e370423f974bb1ce1ed2ffe1~mv2.jpg",
     "title": "Milkaut 1LT",
@@ -330,9 +310,44 @@
     "category": "Fiambrería"
   },
   {
-    "image": "https://i2.wp.com/chepocho.mgwebsite.com/wp-content/uploads/2022/02/ossobuco_-_blog.jpg?fit=800%2C533&ssl=1",
+    "image": "https://caltomas.cat/wp-content/uploads/2020/05/Carne-picada-ternera.jpg",
+    "title": "Picada",
+    "price": "$4990.00",
+    "description": "Precio por Kilo",
+    "category": "Carnicería"
+  },
+  {
+    "image": "https://acdn.mitiendanube.com/stores/861/458/products/espinazo11-eedef82b66556f364115702042047722-640-0.jpg",
+    "title": "Espinazo",
+    "price": "$1490.00",
+    "description": "Precio por Kilo",
+    "category": "Carnicería"
+  },
+  {
+    "image": "https://i0.wp.com/frigorificoavila.com/wp-content/uploads/2022/02/Osobuco-Catu.jpg?fit=1024%2C1024&ssl=1",
     "title": "Osobuco",
-    "price": "$6990.00",
+    "price": "$4990.00",
+    "description": "Precio por Kilo",
+    "category": "Carnicería"
+  },
+  {
+    "image": "https://tacisa.com/wp-content/uploads/2016/05/bistec-pobre-ternera-00311.jpg",
+    "title": "P. Aguja",
+    "price": "$6490.00",
+    "description": "Precio por Kilo",
+    "category": "Carnicería"
+  },
+  {
+    "image": "https://acdn.mitiendanube.com/stores/861/458/products/falda-en-tira1-35263df0f1865a43ad15696853001771-1024-1024.jpg",
+    "title": "Falda Parrillera",
+    "price": "$5490.00",
+    "description": "Precio por Kilo",
+    "category": "Carnicería"
+  },
+  {
+    "image": "https://www.lanacion.com.ar/resizer/v2/CENOXNW6VZAGBF2GKAR3UJ42JA.jpg?auth=7167d831bd1dd34f1fea1484aa671ba4ccf0da56f28b722bd052eb350125c2fc&width=420&height=630&quality=70&smart=true",
+    "title": "Marucha",
+    "price": "$6490.00",
     "description": "Precio por Kilo",
     "category": "Carnicería"
   },
@@ -340,6 +355,13 @@
     "image": "https://images.rappi.com.ar/products/c334e173-6c5b-43ad-aab7-109e9987f13b.png",
     "title": "Pechito de cerdo",
     "price": "$4990.00",
+    "description": "Precio por Kilo",
+    "category": "Carnicería"
+  },
+  {
+    "image": "https://acdn.mitiendanube.com/stores/861/458/products/paleta-bifecito11-46c4c9e830504068ae15702028267324-480-0.jpg",
+    "title": "P. Paleta",
+    "price": "$6990.00",
     "description": "Precio por Kilo",
     "category": "Carnicería"
   },
