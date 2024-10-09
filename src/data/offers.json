@@ -1,11 +1,54 @@
 [
   {
+    "image": "https://dcdn.mitiendanube.com/stores/001/175/558/products/suave1-0b7fda2069ffddb6eb16936681292058-640-0.jpg",
+    "title": "Nescafé Dolca",
+    "price": "$4990.00",
+    "description": "Suave Frasco 170g",
+    "category": "Almacén"
+  },
+  {
+    "image": "https://laprovedeampip.com.ar/wp-content/uploads/2023/09/Salsa-lista-Pomarola-Knnor.png",
+    "title": "Knorr Salsa Pomarola",
+    "price": "$790.00",
+    "description": "",
+    "category": "Almacén"
+  },
+  {
+    "image": "https://cdn.batitienda.com/baticloud/images/product_picture_8120699fc4e94c8ca2dec6a4441f254b_638255586161368025_0_m.jpg",
+    "title": "Mora Puré de Tomates",
+    "price": "$699.00",
+    "description": "520g",
+    "category": "Almacén"
+  },
+  {
+    "image": "https://jumboargentina.vtexassets.com/arquivos/ids/806102/Limpiador-Ecovita-Ba-o-Dp-500ml-1-843981.jpg?v=638399796092270000",
+    "title": "Ecovita Limpiador de Baños",
+    "price": "$890.00",
+    "description": "500ml Doypack",
+    "category": "Almacén"
+  },
+  {
+    "image": "https://arcordiezb2c.vteximg.com.br/arquivos/ids/182258/Jabon-Liquido-Rosas-Granby-3000-Cc-1-17315.jpg?v=638446665840230000",
+    "title": "Gramby Jabón Líquido",
+    "price": "$5950.00",
+    "description": "3000ml Doypack",
+    "category": "Almacén"
+  },
+  {
+    "image": "https://www.delimart.com.ar/user-content/a2603796-5b89-4140-af0c-23bcafd62371.jpg",
+    "title": "Bio Agua Mineral",
+    "price": "$325.00",
+    "description": "500cc",
+    "category": "Almacén"
+  },
+  {
     "image": "https://atomoconviene.com/atomo-ecommerce/66304-large_default/gaseosas-secco-pomelo-2250-cc--.jpg",
     "title": "Gaseosa Secco",
     "price": "$990.00",
     "description": "Sabor Pomelo - 2250cc",
     "category": "Almacén"
   },
+
   {
     "image": "https://fincalasbayas.com/wp/wp-content/uploads/2022/12/Papas-balcarce-rusticas1-scaled.jpg",
     "title": "Finca Balcarce Papas",
@@ -20,13 +63,7 @@
     "description": "Cremigal Leche Sachet Entera y Descremada",
     "category": "Lácteos"
   },
-  {
-    "image": "https://www.maxidescuento.com.ar/580-large_default/querubin-jabliqdoypx-3l-7791905003366.jpg",
-    "title": "Querubín Jabón Líquido",
-    "price": "$6500.00",
-    "description": "Doypack 3000cc",
-    "category": "Almacén"
-  },
+
   {
     "image": "https://www.elpalaciodelalimpieza.com.ar/media/catalog/product/cache/5a38f6614905178fa07804facc7b33a0/1/0/10036_2024-04-09_11_48_15_.png",
     "title": "Polyana Aero Mujer",
@@ -65,17 +102,11 @@
   {
     "image": "https://d1on8qs0xdu5jz.cloudfront.net/webapp/images/productos/b/0000003000/3348.jpg",
     "title": "Guaymallen Alfajores x6",
-    "price": "$1550.00",
+    "price": "$1500.00",
     "description": "Guaymallen Alfajores x6 Unidades",
     "category": "Almacén"
   },
-  {
-    "image": "https://masonlineprod.vtexassets.com/arquivos/ids/278628/Mayonesa-Hellmanns-Liviana-Doypack-237g-1-40997.jpg?v=638168350368700000",
-    "title": "Hellmann's Liviana",
-    "price": "$790.00",
-    "description": "Doypack 237g",
-    "category": "Almacén"
-  },
+
   {
     "image": "https://cdn.batitienda.com/baticloud/images/product_picture_fac74747e2d24f36b0303e953f96b030_637857599714214058_0_m.webp",
     "title": "L'eau Vive Coloración Kit",
@@ -374,13 +405,6 @@
     "category": "Fiambrería"
   },
 
-  {
-    "image": "https://www.lasrosas.com.ar/portal/wp-content/uploads/HNK-710.jpg",
-    "title": "Heineken Lata 710cc",
-    "price": "$2790.00",
-    "description": "",
-    "category": "Almacén"
-  },
   {
     "image": "https://i0.wp.com/cremigal.com/wp-content/uploads/2021/01/fla-pote.png?fit=2500%2C2500&ssl=1",
     "title": "Flan Cremigal",
