@@ -7,6 +7,13 @@
     "category": "Almacén"
   },
   {
+    "image": "https://acdn.mitiendanube.com/stores/001/165/255/products/querubin-baja-espuma-3l-dp-749669adb387ccdad017003343777575-1024-1024.jpg",
+    "title": "Querubín Baja Espuma",
+    "price": "$6500.00",
+    "description": "Líquido para lavar Ropa 3L",
+    "category": "Almacén"
+  },
+  {
     "image": "https://www.puntadelagua.com.ar/wp-content/uploads/2023/05/DULCE-DE-LECHE-400-400x400.png",
     "title": "Punta del Agua Dulce de Leche",
     "price": "$1990.00",
@@ -20,13 +27,7 @@
     "description": "Suave Frasco 170g",
     "category": "Almacén"
   },
-  {
-    "image": "https://laprovedeampip.com.ar/wp-content/uploads/2023/09/Salsa-lista-Pomarola-Knnor.png",
-    "title": "Knorr Salsa Pomarola",
-    "price": "$790.00",
-    "description": "",
-    "category": "Almacén"
-  },
+
   {
     "image": "https://cdn.batitienda.com/baticloud/images/product_picture_8120699fc4e94c8ca2dec6a4441f254b_638255586161368025_0_m.jpg",
     "title": "Mora Puré de Tomates",
@@ -41,13 +42,7 @@
     "description": "500ml Doypack",
     "category": "Almacén"
   },
-  {
-    "image": "https://arcordiezb2c.vteximg.com.br/arquivos/ids/182258/Jabon-Liquido-Rosas-Granby-3000-Cc-1-17315.jpg?v=638446665840230000",
-    "title": "Granby Jabón Líquido",
-    "price": "$5950.00",
-    "description": "3000ml Doypack",
-    "category": "Almacén"
-  },
+
   {
     "image": "https://www.delimart.com.ar/user-content/a2603796-5b89-4140-af0c-23bcafd62371.jpg",
     "title": "Bio Agua Mineral",
