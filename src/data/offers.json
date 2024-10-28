@@ -397,6 +397,83 @@
     "description": "Precio por Kilo",
     "category": "Carnicería"
   },
+  {
+    "image": "https://admin.tiendapower.com/storage/images/products/64763aa604a8a1685469862.webp",
+    "title": "Pollo Trozado",
+    "price": "$3700.00",
+    "description": "Precio por Kilo",
+    "category": "Carnicería"
+  },
+  {
+    "image": "https://admin.tiendapower.com/storage/images/products/6363b048ef5c21667477576.png",
+    "title": "Menudo de Pollo Bandeja",
+    "price": "$490.00",
+    "description": "Precio por Kilo",
+    "category": "Carnicería"
+  },
+  {
+    "image": "https://arcordiezb2c.vteximg.com.br/arquivos/ids/176245/Pata-Y-Muslo-X-Kg-1-5539.jpg?v=638042097762030000",
+    "title": "Pata y Muslo",
+    "price": "3kg x $8100.00",
+    "description": "Precio por 3 Kilos",
+    "category": "Carnicería"
+  },
+  {
+    "image": "https://cdn.pedix.app/pop4ypERtWGLBNUa3WeU/products/1710338177886.png?size=800x800",
+    "title": "Carcaza",
+    "price": "$490.00",
+    "description": "Precio por Kilo",
+    "category": "Carnicería"
+  },
+  {
+    "image": "https://eldiariony.com/wp-content/uploads/sites/2/2020/11/shutterstock_1038459145.jpg?w=4096",
+    "title": "Patas de Pollo",
+    "price": "$3290.00",
+    "description": "Precio por Kilo",
+    "category": "Carnicería"
+  },
+  {
+    "image": "https://arjosimarprod.vteximg.com.br/arquivos/ids/155735-1000-1000/Muslo-de-Pollo-con-Piel-Kg-1-9048.jpg?v=637378633540430000",
+    "title": "Muslo de Pollo",
+    "price": "$3790.00",
+    "description": "Precio por Kilo",
+    "category": "Carnicería"
+  },
+  {
+    "image": "https://lh3.googleusercontent.com/proxy/urV_Qg9Qk8_fVgZTEd9Rm_TM6SrnVqaHqXPRNJylt_nIoEWisRHGQfCDZCyYLAc42jt1x47nqQUvbKfdwbETn1E8yCbHiJ3QEZBCJg",
+    "title": "Pollo Fresco",
+    "price": "$3390.00",
+    "description": "Precio por Kilo",
+    "category": "Carnicería"
+  },
+  {
+    "image": "https://clientes.sigmafoodservice.com/medias/70060029.jpg?context=bWFzdGVyfGltYWdlc3w2MDYzOXxpbWFnZS9qcGVnfGFXMWhaMlZ6TDJoaE9TOW9ZbVF2T1RJMk9EQXhNVFEyTmpjNE1pNXFjR2N8M2I4NGE2N2RkY2Y5OWZhMWUzOGNmOThmMzVkYTQ2YWM2ODg5YjFmYTIwYzU5MDhmOGMxNDA3MmRhYWNiNjhmMg",
+    "title": "Pechuga de Pollo",
+    "price": "$4990.00",
+    "description": "Precio por Kilo",
+    "category": "Carnicería"
+  },
+  {
+    "image": "https://arcordiezb2c.vteximg.com.br/arquivos/ids/176245/Pata-Y-Muslo-X-Kg-1-5539.jpg?v=638042097762030000",
+    "title": "Pata y Muslo",
+    "price": "$2990.00",
+    "description": "Precio por Kilo",
+    "category": "Carnicería"
+  },
+  {
+    "image": "https://polleriatorres.com/wp-content/uploads/2020/04/Hamburguesas-de-pollo-600x750.jpg",
+    "title": "Hamburguesa de Pollo",
+    "price": "$5890.00",
+    "description": "Precio por Kilo",
+    "category": "Carnicería"
+  },
+  {
+    "image": "https://polleriasbermejoylopez.es/wp-content/uploads/2020/10/POLLERIA-BERMEJO-Y-LOPEZ-COMPRAR-POLLO-ONLINE-MOSTOLES-ALITAS-DE-POLLO-ALAS-DE-POLLO-1.jpg",
+    "title": "Alitas de Pollo",
+    "price": "$1490.00",
+    "description": "Precio por Kilo",
+    "category": "Carnicería"
+  },
 
   {
     "image": "https://acdn.mitiendanube.com/stores/003/184/367/products/panceta-ahumada1-4a3a2fd3624a8832a316865921866046-640-0.png",
