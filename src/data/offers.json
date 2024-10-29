@@ -1,5 +1,19 @@
 [
   {
+    "image": "https://www.masfarmacias.com/wp-content/uploads/7500435153164-1.jpg",
+    "title": "Oral B Pasta Dental",
+    "price": "$3390.00",
+    "description": "Cuidado 100% - 70g",
+    "category": "Almacén"
+  },
+  {
+    "image": "https://carrefourar.vtexassets.com/arquivos/ids/518472/7500435150248_02.jpg?v=638507892381330000",
+    "title": "Oral B Pasta Dental",
+    "price": "$2290.00",
+    "description": "Extra Blanco - 70g",
+    "category": "Almacén"
+  },
+  {
     "image": "https://dcdn.mitiendanube.com/stores/001/108/127/products/pepsi-2l1-518ad27c335c6b870d16807174705935-640-0.png",
     "title": "Pepsi Cola 2000cc",
     "price": "$2290.00",
@@ -147,7 +161,7 @@
   {
     "image": "https://www.gergalberries.com/gergal-abm/public/storage/producto/2021_05_07_15_40_10_01_Bowl_Acelga.jpg",
     "title": "Gergal Acelga Kg",
-    "price": "$3990.00",
+    "price": "$4490.00",
     "description": "Precios Mayoristas llevando Bolsa de Kilo",
     "category": "Congelados"
   },
@@ -182,21 +196,21 @@
   {
     "image": "https://www.gergalberries.com/gergal-abm/public/storage/producto/2021_05_07_15_38_04_01_Bowl_Choclo.jpg",
     "title": "Gergal Choclo Kg",
-    "price": "$5800.00",
+    "price": "$5190.00",
     "description": "Precios Mayoristas llevando Bolsa de Kilo",
     "category": "Congelados"
   },
   {
     "image": "https://www.gergalberries.com/gergal-abm/public/storage/producto/2021_07_14_22_05_48_Espa_rragos_500x500.jpg",
     "title": "Gergal Espárrago Kg",
-    "price": "$8990.00",
+    "price": "$7490.00",
     "description": "Precios Mayoristas llevando Bolsa de Kilo",
     "category": "Congelados"
   },
   {
     "image": "https://www.gergalberries.com/gergal-abm/public/storage/producto/2022_07_15_12_18_25_01_Bowl_Espinaca.jpg",
     "title": "Gergal Espinaca Kg",
-    "price": "$4200.00",
+    "price": "$4590.00",
     "description": "Precios Mayoristas llevando Bolsa de Kilo",
     "category": "Congelados"
   },
@@ -217,7 +231,7 @@
   {
     "image": "https://www.gergalberries.com/gergal-abm/public/storage/producto/2021_05_07_15_36_23_01_Bowl_Primavera.jpg",
     "title": "Gergal Primavera Kg",
-    "price": "$4990.00",
+    "price": "$5290.00",
     "description": "Precios Mayoristas llevando Bolsa de Kilo",
     "category": "Congelados"
   },
@@ -231,7 +245,7 @@
   {
     "image": "https://www.gergalberries.com/gergal-abm/public/storage/producto/2021_05_12_15_11_16_01_Bowl_Mix-Zucchini.jpg",
     "title": "Gergal Mix Zucchini Kg",
-    "price": "$6990.00",
+    "price": "$7690.00",
     "description": "Precios Mayoristas llevando Bolsa de Kilo",
     "category": "Congelados"
   },
@@ -259,7 +273,7 @@
   {
     "image": "https://www.gergalberries.com/gergal-abm/public/storage/producto/2021_05_05_20_25_18_01_Bowl_Moras.jpg",
     "title": "Gergal Moras Kg",
-    "price": "$13900.00",
+    "price": "$14500.00",
     "description": "Precios Mayoristas llevando Bolsa de Kilo",
     "category": "Congelados"
   },
