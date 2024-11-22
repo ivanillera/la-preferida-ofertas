@@ -2,7 +2,7 @@
   {
     "image": "https://statics.dinoonline.com.ar/imagenes/full_600x600_ma/3040285_f.jpg",
     "title": "Villa del Sur 1650cc",
-    "price": "$990.00",
+    "price": "$899.00",
     "description": "Villa del Sur Agua Sin Gas",
     "category": "Almacén"
   },
@@ -20,20 +20,8 @@
     "description": "Extra Blanco - 70g",
     "category": "Almacén"
   },
-  {
-    "image": "https://dcdn.mitiendanube.com/stores/001/108/127/products/pepsi-2l1-518ad27c335c6b870d16807174705935-640-0.png",
-    "title": "Pepsi Cola 2000cc",
-    "price": "$1990.00",
-    "description": "",
-    "category": "Almacén"
-  },
-  {
-    "image": "https://ardiaprod.vtexassets.com/arquivos/ids/310885/Cerveza-Schneider-en-Lata-473-ml-_1.jpg?v=638599379126330000",
-    "title": "Schneider 473cc",
-    "price": "$1290.00",
-    "description": "",
-    "category": "Almacén"
-  },
+
+
   {
     "image": "https://acdn.mitiendanube.com/stores/001/165/255/products/querubin-baja-espuma-3l-dp-749669adb387ccdad017003343777575-1024-1024.jpg",
     "title": "Querubín Baja Espuma",
@@ -418,13 +406,6 @@
     "title": "Legítimo Aceite Girasol",
     "price": "$2990.00",
     "description": "1500cc",
-    "category": "Almacén"
-  },
-  {
-    "image": "https://masonlineprod.vtexassets.com/arquivos/ids/164619/Aceite-Oliva-Extra-Virgen-Nucete-500-Cc-1-14734.jpg?v=637835135954930000",
-    "title": "Nucete Oliva 500ml",
-    "price": "$11900.00",
-    "description": "Nucete Aceite de Oliva Extra Virgen 500ml",
     "category": "Almacén"
   }
 ]
