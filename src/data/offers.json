@@ -407,5 +407,19 @@
     "price": "$2990.00",
     "description": "1500cc",
     "category": "Almacén"
+  },
+  {
+    "image": "https://gravitydevs.com/wproggiano/wp-content/uploads/2022/10/8-600x600.png",
+    "title": "Roggiano Jamón Natural",
+    "price": "$15000.00",
+    "description": "Precio por Kilo",
+    "category": "Fiambrería"
+  },
+  {
+    "image": "https://www.puntadelagua.com.ar/wp-content/uploads/2020/08/HORMA-CREMOSO-1-400x400.png",
+    "title": "Punta del Agua Queso Cremoso",
+    "price": "$7990.00",
+    "description": "Precio por Kilo",
+    "category": "Fiambrería"
   }
 ]
