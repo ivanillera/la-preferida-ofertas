@@ -21,7 +21,6 @@
     "category": "Almacén"
   },
 
-
   {
     "image": "https://acdn.mitiendanube.com/stores/001/165/255/products/querubin-baja-espuma-3l-dp-749669adb387ccdad017003343777575-1024-1024.jpg",
     "title": "Querubín Baja Espuma",
@@ -34,15 +33,6 @@
     "title": "Punta del Agua Dulce de Leche",
     "price": "$1990.00",
     "description": "400g",
-    "category": "Almacén"
-  },
-  
-
-  {
-    "image": "https://cdn.batitienda.com/baticloud/images/product_picture_8120699fc4e94c8ca2dec6a4441f254b_638255586161368025_0_m.jpg",
-    "title": "Mora Puré de Tomates",
-    "price": "$699.00",
-    "description": "520g",
     "category": "Almacén"
   },
 
@@ -77,14 +67,6 @@
   },
 
   {
-    "image": "https://www.elpalaciodelalimpieza.com.ar/media/catalog/product/cache/5a38f6614905178fa07804facc7b33a0/1/0/10036_2024-04-09_11_48_15_.png",
-    "title": "Polyana Aero Hombre y Mujer",
-    "price": "$1790.00",
-    "description": "Antitranspirante Aerosol Hombre y Mujer",
-    "category": "Almacén"
-  },
-  
-  {
     "image": "https://acdn.mitiendanube.com/stores/798/865/products/123929724-470061fb844c5bab7016844789900140-640-0.jpg",
     "title": "Secco Sifón 2L",
     "price": "$895.00",
@@ -98,20 +80,6 @@
     "description": "",
     "category": "Almacén"
   },
-  {
-    "image": "https://www.distribuidorasabatini.com/app/files/company_23/products/136086_7790313000028.jpg",
-    "title": "La Colina Duraznos 410g",
-    "price": "$990.00",
-    "description": "La Colina Duraznos Trozos 410g",
-    "category": "Almacén"
-  },
-  {
-    "image": "https://d1on8qs0xdu5jz.cloudfront.net/webapp/images/productos/b/0000003000/3348.jpg",
-    "title": "Guaymallen Alfajores x6",
-    "price": "$1500.00",
-    "description": "Guaymallen Alfajores x6 Unidades",
-    "category": "Almacén"
-  },
 
   {
     "image": "https://cdn.batitienda.com/baticloud/images/product_picture_fac74747e2d24f36b0303e953f96b030_637857599714214058_0_m.webp",
@@ -120,13 +88,7 @@
     "description": "",
     "category": "Almacén"
   },
-  {
-    "image": "https://www.rimoldimayorista.com.ar/datos/uploads/mod_catalogo/31308/sedal-340-ml-sh-6065f352b1c37_thumbnail.png?t=1617294162",
-    "title": "Sedal 340cc",
-    "price": "$2990.00",
-    "description": "Sedal Shampoo y Enjuague 340cc",
-    "category": "Almacén"
-  },
+
   {
     "image": "https://www.gastronomiavasca.net/uploads/image/file/5702/berenjena1.jpg",
     "title": "Berenjena",
@@ -141,7 +103,6 @@
     "description": "Precio por Kilo",
     "category": "Verdulería"
   },
-  
 
   {
     "image": "https://www.gergalberries.com/gergal-abm/public/storage/producto/2021_05_07_15_40_10_01_Bowl_Acelga.jpg",
@@ -262,7 +223,7 @@
     "description": "Precios Mayoristas llevando Bolsa de Kilo",
     "category": "Congelados"
   },
-   {
+  {
     "image": "https://borrachines.com.ar/wp-content/uploads/2022/10/Espumante-Santa-Julia-Classic-Cuvee-1-417651-jpg.webp",
     "title": "Santa Julia Champagne",
     "price": "$5990.00",
@@ -276,14 +237,7 @@
     "description": "Vionier / Cab. Franc / Malbec",
     "category": "Almacén"
   },
- 
-  {
-    "image": "https://acdn.mitiendanube.com/stores/001/144/141/products/whatsapp-image-2021-05-03-at-19-28-431-222a750cb6cd701b1d16201655677628-640-0.jpeg",
-    "title": "Santa Julia",
-    "price": "$2990.00",
-    "description": "Cab. Sauv. / Tempranillo / Chardonay",
-    "category": "Almacén"
-  },
+
   {
     "image": "https://cepadevinos.com/wp-content/uploads/2023/08/trandional-tinto.png",
     "title": "Cepa Tradicional",
@@ -334,65 +288,6 @@
     "description": "Good Show Papas 147g Clásicas",
     "category": "Almacén"
   },
- 
-  {
-    "image": "https://caltomas.cat/wp-content/uploads/2020/05/Carne-picada-ternera.jpg",
-    "title": "Picada",
-    "price": "$4990.00",
-    "description": "Precio por Kilo",
-    "category": "Carnicería"
-  },
-  {
-    "image": "https://acdn.mitiendanube.com/stores/861/458/products/espinazo11-eedef82b66556f364115702042047722-640-0.jpg",
-    "title": "Espinazo",
-    "price": "$1490.00",
-    "description": "Precio por Kilo",
-    "category": "Carnicería"
-  },
-  {
-    "image": "https://i0.wp.com/frigorificoavila.com/wp-content/uploads/2022/02/Osobuco-Catu.jpg?fit=1024%2C1024&ssl=1",
-    "title": "Osobuco",
-    "price": "$4990.00",
-    "description": "Precio por Kilo",
-    "category": "Carnicería"
-  },
-  {
-    "image": "https://tacisa.com/wp-content/uploads/2016/05/bistec-pobre-ternera-00311.jpg",
-    "title": "P. Aguja",
-    "price": "$6490.00",
-    "description": "Precio por Kilo",
-    "category": "Carnicería"
-  },
-  {
-    "image": "https://acdn.mitiendanube.com/stores/861/458/products/falda-en-tira1-35263df0f1865a43ad15696853001771-1024-1024.jpg",
-    "title": "Falda Parrillera",
-    "price": "$5490.00",
-    "description": "Precio por Kilo",
-    "category": "Carnicería"
-  },
-  {
-    "image": "https://www.lanacion.com.ar/resizer/v2/CENOXNW6VZAGBF2GKAR3UJ42JA.jpg?auth=7167d831bd1dd34f1fea1484aa671ba4ccf0da56f28b722bd052eb350125c2fc&width=420&height=630&quality=70&smart=true",
-    "title": "Marucha",
-    "price": "$6490.00",
-    "description": "Precio por Kilo",
-    "category": "Carnicería"
-  },
-  {
-    "image": "https://images.rappi.com.ar/products/c334e173-6c5b-43ad-aab7-109e9987f13b.png",
-    "title": "Pechito de cerdo",
-    "price": "$4990.00",
-    "description": "Precio por Kilo",
-    "category": "Carnicería"
-  },
-  {
-    "image": "https://acdn.mitiendanube.com/stores/861/458/products/paleta-bifecito11-46c4c9e830504068ae15702028267324-480-0.jpg",
-    "title": "P. Paleta",
-    "price": "$6990.00",
-    "description": "Precio por Kilo",
-    "category": "Carnicería"
-  },
-  
-  
 
   {
     "image": "https://i0.wp.com/cremigal.com/wp-content/uploads/2021/01/fla-pote.png?fit=2500%2C2500&ssl=1",
