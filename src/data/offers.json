@@ -316,5 +316,12 @@
     "price": "$7990.00",
     "description": "Precio por Kilo",
     "category": "Fiambrería"
+  },
+  {
+    "image": "https://acdn.mitiendanube.com/stores/861/458/products/181-3126e9cd2bf326723c15705626046671-640-0.jpg",
+    "title": "Pechito de Cerdo",
+    "price": "$5500.00",
+    "description": "Precio por Kilo",
+    "category": "Carnicería"
   }
 ]
