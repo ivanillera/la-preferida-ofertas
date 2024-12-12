@@ -51,13 +51,7 @@
     "category": "Almacén"
   },
 
-  {
-    "image": "https://acdn.mitiendanube.com/stores/001/029/111/products/d_nq_np_981227-mla32070091065_092019-o1-1658c8489f659f021d16315781585743-640-0.jpg",
-    "title": "Finca Balcarce Papas",
-    "price": "$8500.00",
-    "description": "Papas Supercongeladas Bolsa 2.5 Kg",
-    "category": "Congelados"
-  },
+
   {
     "image": "https://cremigal.com/wp-content/uploads/2021/05/leche-entera-sachet-1L-1.png",
     "title": "Cremigal Leche",
@@ -104,125 +98,7 @@
     "category": "Verdulería"
   },
 
-  {
-    "image": "https://www.gergalberries.com/gergal-abm/public/storage/producto/2021_05_07_15_40_10_01_Bowl_Acelga.jpg",
-    "title": "Gergal Acelga Kg",
-    "price": "$4490.00",
-    "description": "Precios Mayoristas llevando Bolsa de Kilo",
-    "category": "Congelados"
-  },
-  {
-    "image": "https://www.gergalberries.com/gergal-abm/public/storage/producto/2021_05_05_20_18_02_01_Bowl_Arvejas.jpg",
-    "title": "Gergal Arveja Kg",
-    "price": "$6490.00",
-    "description": "Precios Mayoristas llevando Bolsa de Kilo",
-    "category": "Congelados"
-  },
-  {
-    "image": "https://www.gergalberries.com/gergal-abm/public/storage/producto/2021_05_05_20_18_34_01_Bowl_Bro%CC%81coli.jpg",
-    "title": "Gergal Brócoli Kg",
-    "price": "$10900.00",
-    "description": "Precios Mayoristas llevando Bolsa de Kilo",
-    "category": "Congelados"
-  },
-  {
-    "image": "https://www.gergalberries.com/gergal-abm/public/storage/producto/2021_05_07_17_30_30_01_Bowl_Cebolla.jpg",
-    "title": "Gergal Cebolla Kg",
-    "price": "$5500.00",
-    "description": "Precios Mayoristas llevando Bolsa de Kilo",
-    "category": "Congelados"
-  },
-  {
-    "image": "https://www.gergalberries.com/gergal-abm/public/storage/producto/2021_05_07_17_28_59_01_Bowl_Chaucha.jpg",
-    "title": "Gergal Chaucha Kg",
-    "price": "$6190.00",
-    "description": "Precios Mayoristas llevando Bolsa de Kilo",
-    "category": "Congelados"
-  },
-  {
-    "image": "https://www.gergalberries.com/gergal-abm/public/storage/producto/2021_05_07_15_38_04_01_Bowl_Choclo.jpg",
-    "title": "Gergal Choclo Kg",
-    "price": "$5190.00",
-    "description": "Precios Mayoristas llevando Bolsa de Kilo",
-    "category": "Congelados"
-  },
-  {
-    "image": "https://www.gergalberries.com/gergal-abm/public/storage/producto/2021_07_14_22_05_48_Espa_rragos_500x500.jpg",
-    "title": "Gergal Espárrago Kg",
-    "price": "$7490.00",
-    "description": "Precios Mayoristas llevando Bolsa de Kilo",
-    "category": "Congelados"
-  },
-  {
-    "image": "https://www.gergalberries.com/gergal-abm/public/storage/producto/2022_07_15_12_18_25_01_Bowl_Espinaca.jpg",
-    "title": "Gergal Espinaca Kg",
-    "price": "$4590.00",
-    "description": "Precios Mayoristas llevando Bolsa de Kilo",
-    "category": "Congelados"
-  },
-  {
-    "image": "https://www.gergalberries.com/gergal-abm/public/storage/producto/2021_05_05_18_34_27_01_Bowl_Frutillas.jpg",
-    "title": "Gergal Frutilla Kg",
-    "price": "$7900.00",
-    "description": "Precios Mayoristas llevando Bolsa de Kilo",
-    "category": "Congelados"
-  },
-  {
-    "image": "https://www.gergalberries.com/gergal-abm/public/storage/producto/2021_05_05_20_17_29_01_Bowl_Jardinera.jpg",
-    "title": "Gergal Jardinera Kg",
-    "price": "$8290.00",
-    "description": "Precios Mayoristas llevando Bolsa de Kilo",
-    "category": "Congelados"
-  },
-  {
-    "image": "https://www.gergalberries.com/gergal-abm/public/storage/producto/2021_05_07_15_36_23_01_Bowl_Primavera.jpg",
-    "title": "Gergal Primavera Kg",
-    "price": "$5290.00",
-    "description": "Precios Mayoristas llevando Bolsa de Kilo",
-    "category": "Congelados"
-  },
-  {
-    "image": "https://www.gergalberries.com/gergal-abm/public/storage/producto/2021_05_12_15_02_45_01_Bowl_Wok.jpg",
-    "title": "Gergal Wok Vegetales Kg",
-    "price": "$6490.00",
-    "description": "Precios Mayoristas llevando Bolsa de Kilo",
-    "category": "Congelados"
-  },
-  {
-    "image": "https://www.gergalberries.com/gergal-abm/public/storage/producto/2021_05_12_15_11_16_01_Bowl_Mix-Zucchini.jpg",
-    "title": "Gergal Mix Zucchini Kg",
-    "price": "$7690.00",
-    "description": "Precios Mayoristas llevando Bolsa de Kilo",
-    "category": "Congelados"
-  },
-  {
-    "image": "https://www.gergalberries.com/gergal-abm/public/storage/producto/2021_05_05_20_24_29_01_Bowl_Mix-de-Berries.jpg",
-    "title": "Gergal Mix Berries Kg",
-    "price": "$11500.00",
-    "description": "Precios Mayoristas llevando Bolsa de Kilo",
-    "category": "Congelados"
-  },
-  {
-    "image": "https://www.gergalberries.com/gergal-abm/public/storage/producto/2021_05_05_20_15_20_01_Bowl_Ara%CC%81ndanos.jpg",
-    "title": "Gergal Arándanos Kg",
-    "price": "$8690.00",
-    "description": "Precios Mayoristas llevando Bolsa de Kilo",
-    "category": "Congelados"
-  },
-  {
-    "image": "https://www.gergalberries.com/gergal-abm/public/storage/producto/2021_05_05_20_16_26_02_Bowl_Frambuesas_2.jpg",
-    "title": "Gergal Frambuesa Kg",
-    "price": "$18500.00",
-    "description": "Precios Mayoristas llevando Bolsa de Kilo",
-    "category": "Congelados"
-  },
-  {
-    "image": "https://www.gergalberries.com/gergal-abm/public/storage/producto/2021_05_05_20_25_18_01_Bowl_Moras.jpg",
-    "title": "Gergal Moras Kg",
-    "price": "$14500.00",
-    "description": "Precios Mayoristas llevando Bolsa de Kilo",
-    "category": "Congelados"
-  },
+  
   {
     "image": "https://borrachines.com.ar/wp-content/uploads/2022/10/Espumante-Santa-Julia-Classic-Cuvee-1-417651-jpg.webp",
     "title": "Santa Julia Champagne",
