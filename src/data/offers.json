@@ -2,15 +2,36 @@
   {
     "image": "https://cdn1.kilbelonline.com/webapp/images/productos/b/0000021000/21564.jpg",
     "title": "Tunuyán Sidra ",
-    "price": "$2190.00",
+    "price": "$1990.00",
     "description": "710cc",
     "category": "Almacén"
   },
   {
     "image": "https://tienda.pasosonline.com.ar/wp-content/uploads/2024/02/TUNUYAN-anana-fizz-x710cc-e1667219170341.png",
     "title": "Tunuyán Ananá Fizz",
-    "price": "$2490.00",
+    "price": "$2390.00",
     "description": "710cc",
+    "category": "Almacén"
+  },
+  {
+    "image": "https://www.californiasa.com.ar/wp-content/uploads/7792316000036.jpg",
+    "title": "La Victoria Ananá Fizz",
+    "price": "$2790.00",
+    "description": "720cc",
+    "category": "Almacén"
+  },
+  {
+    "image": "https://arjosimarprod.vtexassets.com/arquivos/ids/158832/Champa-a-Fresita-750-cc-1-4271.jpg?v=637414118648970000",
+    "title": "Fresita Champaña",
+    "price": "$6990.00",
+    "description": "750cc",
+    "category": "Almacén"
+  },
+  {
+    "image": "https://borrachines.com.ar/wp-content/uploads/2022/12/MONTCHENOT-EXTRA-BRUT-750ML-MERCADO-LIBRE.png",
+    "title": "Montchenot Champaña",
+    "price": "$9900.00",
+    "description": "Extra Brut Champaña 750cc",
     "category": "Almacén"
   },
   {
@@ -199,13 +220,7 @@
     "description": "Bidón de Agua Celestial 6 LTS",
     "category": "Almacén"
   },
-  {
-    "image": "https://www.lacoopeencasa.coop/media/lcec/publico/articulos/e/9/b/e9bed3a6c2a8314aa15f6ca4265cd829",
-    "title": "Cañuelas Arroz G. Largo",
-    "price": "$899.00",
-    "description": "Cañuelas Arroz Grano Largo Fino 500g",
-    "category": "Almacén"
-  },
+
   {
     "image": "https://www.mayoristasoto.com/10686-medium_default/papas-fritas-good-show-63g-clasicas.jpg",
     "title": "Good Show Papas Fritas",
@@ -221,13 +236,7 @@
     "description": "",
     "category": "Lácteos"
   },
-  {
-    "image": "https://arcordiezb2c.vteximg.com.br/arquivos/ids/180115/Aceite-Girasol-Legitimo-1500-Cc-1-15323.jpg?v=638333373695700000",
-    "title": "Legítimo Aceite Girasol",
-    "price": "$2990.00",
-    "description": "1500cc",
-    "category": "Almacén"
-  },
+
   {
     "image": "https://gravitydevs.com/wproggiano/wp-content/uploads/2022/10/8-600x600.png",
     "title": "Roggiano Jamón Natural",
