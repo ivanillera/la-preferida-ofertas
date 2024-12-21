@@ -35,6 +35,13 @@
     "category": "Almacén"
   },
   {
+    "image": "https://www.mercadodevinos.com.ar/wp-content/uploads/2017/01/bravio-malbec.jpg",
+    "title": "Bravío Malbec",
+    "price": "$2990.00",
+    "description": "Bravío Malbec Bodega Uxmal",
+    "category": "Almacén"
+  },
+  {
     "image": "https://acdn.mitiendanube.com/stores/003/184/367/products/oliva-1l1-499ca1a27a84455c9916848740918250-640-0.jpg",
     "title": "Olizvan Aceite de Oliva",
     "price": "$8900.00",
@@ -120,13 +127,7 @@
     "description": "500cc",
     "category": "Almacén"
   },
-  {
-    "image": "https://atomoconviene.com/atomo-ecommerce/66304-large_default/gaseosas-secco-pomelo-2250-cc--.jpg",
-    "title": "Gaseosa Secco",
-    "price": "$990.00",
-    "description": "Sabor Pomelo - 2250cc",
-    "category": "Almacén"
-  },
+
 
 
   {
