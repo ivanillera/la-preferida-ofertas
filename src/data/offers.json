@@ -41,6 +41,32 @@
     "description": "Bravío Malbec Bodega Uxmal",
     "category": "Almacén"
   },
+
+  {
+    "image": "https://i.imgur.com/f2tNgXy.png",
+    "title": "Chachingo Cerveza",
+    "price": "$2450.00",
+    "description": "Golden / Porter / IPA / Amber - 355ml",
+    "category": "Almacén"
+  },
+
+
+  {
+    "image": "https://www.dicandiaxmayor.com.ar/wp-content/uploads/2024/12/download.jpg",
+    "title": "Abeto Duraznos",
+    "price": "$1690.00",
+    "description": "Duraznos en Tajadas 820g",
+    "category": "Almacén"
+  },
+  {
+    "image": "https://arjosimarprod.vtexassets.com/arquivos/ids/170530/Atun-en-Lomitos-al-Natural-Bajo-Sodio-Bahia-170-gr-1-15187.jpg?v=638608773670570000",
+    "title": "Bahía Atún Bajo Sodio",
+    "price": "$2790.00",
+    "description": "Atún en Aceite o al Natural 170g",
+    "category": "Almacén"
+  },
+
+
   {
     "image": "https://acdn.mitiendanube.com/stores/003/184/367/products/oliva-1l1-499ca1a27a84455c9916848740918250-640-0.jpg",
     "title": "Olizvan Aceite de Oliva",
