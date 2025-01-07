@@ -82,27 +82,8 @@
     "description": "Aceite de Oliva Virgen 500cc",
     "category": "Almacén"
   },
-  {
-    "image": "https://noalsa.com/wp-content/uploads/2021/01/queso-noal-danbo.jpg",
-    "title": "Noal Barra Queso Dambo",
-    "price": "$9900.00",
-    "description": "Precio por Kilo",
-    "category": "Fiambrería"
-  },
-  {
-    "image": "https://noalsa.com/wp-content/uploads/2021/01/queso-noal-cremoso.jpg",
-    "title": "Noal Cremoso",
-    "price": "$7500.00",
-    "description": "Precio por Kilo",
-    "category": "Fiambrería"
-  },
-  {
-    "image": "https://www.paladini.com.ar/assets/img/productos/productos/paleta-cocida.png",
-    "title": "Paladini Paleta Cocida",
-    "price": "$11900.00",
-    "description": "Precio por Kilo",
-    "category": "Fiambrería"
-  },
+
+
   {
     "image": "https://distribuidorasabatini.com/app/files/company_23/products/175600_anana-en-rodajas-bahia-x-850-gr1-cf0d34294da032726e16672481395257-640-0.webp",
     "title": "Bahía Ananá",
@@ -282,17 +263,18 @@
   {
     "image": "https://gravitydevs.com/wproggiano/wp-content/uploads/2022/10/8-600x600.png",
     "title": "Roggiano Jamón Natural",
-    "price": "$16500.00",
+    "price": "$17500.00",
     "description": "Precio por Kilo",
     "category": "Fiambrería"
   },
   {
-    "image": "https://www.puntadelagua.com.ar/wp-content/uploads/2020/08/HORMA-CREMOSO-1-400x400.png",
-    "title": "Punta del Agua Queso Cremoso",
-    "price": "$7990.00",
+    "image": "https://www.lacoopeencasa.coop/media/lcec/publico/articulos/9/f/f/9ffff26940e15a03148d9586671c2bba",
+    "title": "El Artesano Jamón Crudo",
+    "price": "$24000.00",
     "description": "Precio por Kilo",
     "category": "Fiambrería"
   },
+
   {
     "image": "https://acdn.mitiendanube.com/stores/861/458/products/181-3126e9cd2bf326723c15705626046671-640-0.jpg",
     "title": "Pechito de Cerdo",
