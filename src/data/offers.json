@@ -1,5 +1,18 @@
 [
-
+  {
+    "image": "https://dcdn.mitiendanube.com/stores/002/375/265/products/floripel1-52cfc63d397643e75616630695194978-480-0.png",
+    "title": "Floripel Rollos de Papel Higiénico",
+    "price": "$1490.00",
+    "description": "Suave 4x30mts",
+    "category": "Almacén"
+  },
+  {
+    "image": "https://www.anikashop.com.ar/product_images/c/177/470-321-01_A__61945_zoom.jpg",
+    "title": "Colgate Pasta Dental",
+    "price": "$1490.00",
+    "description": "Anticaries 70g",
+    "category": "Almacén"
+  },
   {
     "image": "https://tost.cl/cdn/shop/files/Disenosintitulo-2024-04-03T105002.438_1200x.png?v=1725910784",
     "title": "7UP Seven Up",
