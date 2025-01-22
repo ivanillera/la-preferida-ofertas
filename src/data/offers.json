@@ -4,14 +4,14 @@
     "title": "Pepsi Cola",
     "price": "$1990.00",
     "description": "1500cc",
-    "category": "Almacén"
+    "category": "Bebidas"
   },
   {
     "image": "https://labebidadetusfiestas.com.ar/38635-large_default/cerveza-schneider-rubia-lata-473cc.jpg",
     "title": "Schneider Rubia Lata",
     "price": "$1490.00",
     "description": "473cc",
-    "category": "Almacén"
+    "category": "Bebidas"
   },
   {
     "image": "https://www.multifood.com.ar/images/000Z-001-002-02736482Z-001-002-027-GalloOroBolsa1K.jpg",
@@ -25,7 +25,7 @@
     "title": "Bio Agua Mineral",
     "price": "$540.00",
     "description": "2250ml",
-    "category": "Almacén"
+    "category": "Bebidas"
   },
   {
     "image": "https://todoscomen.produccionsocial.org.ar/wp-content/uploads/2023/05/premezcla.png",
@@ -130,14 +130,14 @@
     "title": "La Victoria Ananá Fizz",
     "price": "$2790.00",
     "description": "720cc",
-    "category": "Almacén"
+    "category": "Bebidas"
   },
   {
     "image": "https://borrachines.com.ar/wp-content/uploads/2022/12/MONTCHENOT-EXTRA-BRUT-750ML-MERCADO-LIBRE.png",
     "title": "Montchenot Champagne",
     "price": "$9900.00",
     "description": "Extra Brut Champagne 750cc",
-    "category": "Almacén"
+    "category": "Bebidas"
   },
   {
     "image": "https://arjosimarprod.vtexassets.com/arquivos/ids/170530/Atun-en-Lomitos-al-Natural-Bajo-Sodio-Bahia-170-gr-1-15187.jpg?v=638608773670570000",
@@ -193,7 +193,7 @@
     "title": "Bio Agua Mineral",
     "price": "$325.00",
     "description": "500cc",
-    "category": "Almacén"
+    "category": "Bebidas"
   },
   {
     "image": "https://cremigal.com/wp-content/uploads/2021/05/leche-entera-sachet-1L-1.png",
@@ -207,7 +207,7 @@
     "title": "Secco Sifón 2L",
     "price": "$895.00",
     "description": "Secco Sifón 2 Litros",
-    "category": "Almacén"
+    "category": "Bebidas"
   },
   {
     "image": "https://acdn.mitiendanube.com/stores/001/172/405/products/rollo-de-cocina-cartabella1-df8570140c2e55beee16001022792981-640-0.png",
@@ -242,21 +242,21 @@
     "title": "Santa Julia Champagne",
     "price": "$5990.00",
     "description": "Sta Julia Espumante Cuvée Extra Brut",
-    "category": "Almacén"
+    "category": "Bebidas"
   },
   {
     "image": "https://lh6.googleusercontent.com/proxy/S3w4yd7ZztXATB7xmqFiR7PLH1Mx6Li4M05wkSZ9iFs2uIwmtiMPvZJwEcdsMo-IyBOXuVc4MbKz030aoPVpwmhG2lUmoEGhb96qWmMF3EE-mSI",
     "title": "Nicasia",
     "price": "$6990.00",
     "description": "Vionier / Cab. Franc / Malbec",
-    "category": "Almacén"
+    "category": "Bebidas"
   },
   {
     "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUsJZPFKjsQsNZFUvzGzREtQOs7sdHd-IAfQ&s",
     "title": "Celestial 6 LTS",
     "price": "$1490.00",
     "description": "Bidón de Agua Celestial 6 LTS",
-    "category": "Almacén"
+    "category": "Bebidas"
   },
   {
     "image": "https://www.mayoristasoto.com/10686-medium_default/papas-fritas-good-show-63g-clasicas.jpg",

@@ -31,6 +31,18 @@ export const CategorySelection = ({
           Almacén
         </button>
       )}
+            {availableCategories.includes("Bebidas") && (
+        <button
+          className={`px-4 py-2 rounded-lg font-bold transition-colors duration-200 ${
+            selectedCategory === "Bebidas"
+              ? "bg-blue-500 text-white"
+              : "bg-gray-200 text-black hover:bg-blue-300"
+          }`}
+          onClick={() => handleCategoryClick("Bebidas")}
+        >
+          Bebidas
+        </button>
+      )}
       {availableCategories.includes("Carnicería") && (
         <button
           className={`px-4 py-2 rounded-lg font-bold transition-colors duration-200 ${
@@ -103,6 +115,7 @@ export const CategorySelection = ({
           Congelados
         </button>
       )}
+
     </div>
   );
 };
