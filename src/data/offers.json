@@ -1,5 +1,19 @@
 [
   {
+    "image": "https://d1ks0wbvjr3pux.cloudfront.net/22165de0-7ba6-4938-ad7f-f9c721213612-lg.jpg",
+    "title": "Pepsi Cola",
+    "price": "$1990.00",
+    "description": "1500cc",
+    "category": "Almacén"
+  },
+  {
+    "image": "https://labebidadetusfiestas.com.ar/38635-large_default/cerveza-schneider-rubia-lata-473cc.jpg",
+    "title": "Schneider Rubia Lata",
+    "price": "$1490.00",
+    "description": "473cc",
+    "category": "Almacén"
+  },
+  {
     "image": "https://www.multifood.com.ar/images/000Z-001-002-02736482Z-001-002-027-GalloOroBolsa1K.jpg",
     "title": "Gallo Oro",
     "price": "$2290.00",
