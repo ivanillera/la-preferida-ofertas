@@ -1,5 +1,89 @@
 [
   {
+    "image": "https://www.lacoopeencasa.coop/media/lcec/publico/articulos/6/d/e/6de1359d8fe4e812824bb8226224e9b5",
+    "title": "Bio Agua Mineral",
+    "price": "$540.00",
+    "description": "2250ml",
+    "category": "Almacén"
+  },
+  {
+    "image": "https://todoscomen.produccionsocial.org.ar/wp-content/uploads/2023/05/premezcla.png",
+    "title": "Doña Pacha Premezcla",
+    "price": "$2700.00",
+    "description": "500g Premezcla Universal Sin TACC",
+    "category": "Almacén"
+  },
+  {
+    "image": "https://http2.mlstatic.com/D_NQ_NP_608198-MLA81393153643_122024-O.webp",
+    "title": "Tiyuca Tubo Papas Fritas",
+    "price": "$2950.00",
+    "description": "140g",
+    "category": "Almacén"
+  },
+  {
+    "image": "https://http2.mlstatic.com/D_NQ_NP_849752-MLA74126712987_012024-O.webp",
+    "title": "Guaymallen x6 Fruta",
+    "price": "$1550.00",
+    "description": "",
+    "category": "Almacén"
+  },
+  {
+    "image": "https://statics.dinoonline.com.ar/imagenes/full_600x600_ma/2360124_f.jpg",
+    "title": "Inalpa Arvejas",
+    "price": "$590.00",
+    "description": "300g",
+    "category": "Almacén"
+  },
+  {
+    "image": "https://http2.mlstatic.com/D_NQ_NP_984303-MLA71056838383_082023-O.webp",
+    "title": "Copa de Oro Duraznos en Trozos",
+    "price": "$1690.00",
+    "description": "485g",
+    "category": "Almacén"
+  },
+  {
+    "image": "https://osvaldomarcolini.com/2672-large_default/secador-piso-plastico-3m-fiorentina-doble-goma-40-.jpg",
+    "title": "Fiorentina Secador de Piso",
+    "price": "$3990.00",
+    "description": "Doble Goma 40cm",
+    "category": "Almacén"
+  },
+  {
+    "image": "https://acdn.mitiendanube.com/stores/001/117/350/products/secador-fiorentina1-cb76521ec0f1f0d32f16833309323939-640-0.jpg",
+    "title": "Fiorentina Secador de Piso",
+    "price": "$2490.00",
+    "description": "Aquarapid 30cm",
+    "category": "Almacén"
+  },
+  {
+    "image": "https://prodelimptienda.com.ar/wp-content/uploads/2020/07/Captura-de-pantalla-2020-09-30-a-las-13.30.48.png",
+    "title": "Samantha Escoba",
+    "price": "$3990.00",
+    "description": "Super",
+    "category": "Almacén"
+  },
+  {
+    "image": "https://www.mink.com.ar/qloud/mym-dis/articulos/fotos/9310.jpg",
+    "title": "Candela LED ",
+    "price": "$1250.00",
+    "description": "15WT Fría",
+    "category": "Almacén"
+  },
+  {
+    "image": "https://jumboargentina.vtexassets.com/arquivos/ids/783516/Lampara-Led-12w-Fria-B-50-Candela-1-970876.jpg?v=638212413958530000",
+    "title": "Candela LED ",
+    "price": "$1100.00",
+    "description": "12WT Fría",
+    "category": "Almacén"
+  },
+  {
+    "image": "https://acdn.mitiendanube.com/stores/002/889/113/products/49-67d04e854ccffd539b17157796699366-1024-1024.png",
+    "title": "Catena Aceite de Oliva",
+    "price": "$19900.00",
+    "description": "Aceite de Oliva Virgen Extra 500ml Blend Suave/Familia/Robusto",
+    "category": "Almacén"
+  },
+  {
     "image": "https://http2.mlstatic.com/D_NQ_NP_708398-MLA47849652551_102021-O.webp",
     "title": "Nucete Aceite de Oliva",
     "price": "$11900.00",
@@ -21,38 +105,10 @@
     "category": "Almacén"
   },
   {
-    "image": "https://tost.cl/cdn/shop/files/Disenosintitulo-2024-04-03T105002.438_1200x.png?v=1725910784",
-    "title": "7UP Seven Up",
-    "price": "$1990.00",
-    "description": "1500cc",
-    "category": "Almacén"
-  },
-  {
-    "image": "https://cdn1.kilbelonline.com/webapp/images/productos/b/0000021000/21564.jpg",
-    "title": "Tunuyán Sidra ",
-    "price": "$1990.00",
-    "description": "710cc",
-    "category": "Almacén"
-  },
-  {
-    "image": "https://tienda.pasosonline.com.ar/wp-content/uploads/2024/02/TUNUYAN-anana-fizz-x710cc-e1667219170341.png",
-    "title": "Tunuyán Ananá Fizz",
-    "price": "$2390.00",
-    "description": "710cc",
-    "category": "Almacén"
-  },
-  {
     "image": "https://www.californiasa.com.ar/wp-content/uploads/7792316000036.jpg",
     "title": "La Victoria Ananá Fizz",
     "price": "$2790.00",
     "description": "720cc",
-    "category": "Almacén"
-  },
-  {
-    "image": "https://arjosimarprod.vtexassets.com/arquivos/ids/158832/Champa-a-Fresita-750-cc-1-4271.jpg?v=637414118648970000",
-    "title": "Fresita Champagne",
-    "price": "$6990.00",
-    "description": "750cc",
     "category": "Almacén"
   },
   {
@@ -63,52 +119,17 @@
     "category": "Almacén"
   },
   {
-    "image": "https://www.mercadodevinos.com.ar/wp-content/uploads/2017/01/bravio-malbec.jpg",
-    "title": "Bravío Malbec",
-    "price": "$2990.00",
-    "description": "Bravío Malbec Bodega Uxmal",
-    "category": "Almacén"
-  },
-
-  {
-    "image": "https://i.imgur.com/f2tNgXy.png",
-    "title": "Chachingo Cerveza",
-    "price": "$2450.00",
-    "description": "Golden / Porter / IPA / Amber - 355ml",
-    "category": "Almacén"
-  },
-
-
-  {
-    "image": "https://www.dicandiaxmayor.com.ar/wp-content/uploads/2024/12/download.jpg",
-    "title": "Abeto Duraznos",
-    "price": "$1690.00",
-    "description": "Duraznos en Tajadas 820g",
-    "category": "Almacén"
-  },
-  {
     "image": "https://arjosimarprod.vtexassets.com/arquivos/ids/170530/Atun-en-Lomitos-al-Natural-Bajo-Sodio-Bahia-170-gr-1-15187.jpg?v=638608773670570000",
     "title": "Bahía Atún Bajo Sodio",
     "price": "$2790.00",
     "description": "Atún en Aceite o al Natural 170g",
     "category": "Almacén"
   },
-
-
   {
     "image": "https://acdn.mitiendanube.com/stores/003/184/367/products/oliva-1l1-499ca1a27a84455c9916848740918250-640-0.jpg",
     "title": "Olizvan Aceite de Oliva",
     "price": "$8900.00",
     "description": "Aceite de Oliva Virgen 500cc",
-    "category": "Almacén"
-  },
-
-
-  {
-    "image": "https://distribuidorasabatini.com/app/files/company_23/products/175600_anana-en-rodajas-bahia-x-850-gr1-cf0d34294da032726e16672481395257-640-0.webp",
-    "title": "Bahía Ananá",
-    "price": "$3990.00",
-    "description": "Ananá en Rodajas Comunes 567g",
     "category": "Almacén"
   },
   {
@@ -118,13 +139,6 @@
     "description": "400g",
     "category": "Almacén"
   },
-
-
-
-
-
-
-
   {
     "image": "https://carrefourar.vtexassets.com/arquivos/ids/518465/7500435153164_01.jpg?v=638507892367530000",
     "title": "Oral B Pasta Dental",
@@ -139,7 +153,6 @@
     "description": "Extra Blanco - 70g",
     "category": "Almacén"
   },
-
   {
     "image": "https://acdn.mitiendanube.com/stores/001/165/255/products/querubin-baja-espuma-3l-dp-749669adb387ccdad017003343777575-1024-1024.jpg",
     "title": "Querubín Baja Espuma",
@@ -154,7 +167,6 @@
     "description": "400g",
     "category": "Lácteos"
   },
-
   {
     "image": "https://www.delimart.com.ar/user-content/a2603796-5b89-4140-af0c-23bcafd62371.jpg",
     "title": "Bio Agua Mineral",
@@ -162,9 +174,6 @@
     "description": "500cc",
     "category": "Almacén"
   },
-
-
-
   {
     "image": "https://cremigal.com/wp-content/uploads/2021/05/leche-entera-sachet-1L-1.png",
     "title": "Cremigal Leche",
@@ -172,7 +181,6 @@
     "description": "Cremigal Leche Sachet Entera y Descremada",
     "category": "Lácteos"
   },
-
   {
     "image": "https://acdn.mitiendanube.com/stores/798/865/products/123929724-470061fb844c5bab7016844789900140-640-0.jpg",
     "title": "Secco Sifón 2L",
@@ -187,7 +195,6 @@
     "description": "",
     "category": "Almacén"
   },
-
   {
     "image": "https://cdn.batitienda.com/baticloud/images/product_picture_fac74747e2d24f36b0303e953f96b030_637857599714214058_0_m.webp",
     "title": "L'eau Vive Coloración Kit",
@@ -195,7 +202,6 @@
     "description": "",
     "category": "Almacén"
   },
-
   {
     "image": "https://www.gastronomiavasca.net/uploads/image/file/5702/berenjena1.jpg",
     "title": "Berenjena",
@@ -206,12 +212,10 @@
   {
     "image": "https://statics.dinoonline.com.ar/imagenes/full_600x600_ma/3390613_f.jpg",
     "title": "Papa Cepillada",
-    "price": "$890.00",
+    "price": "$790.00",
     "description": "Precio por Kilo",
     "category": "Verdulería"
   },
-
-  
   {
     "image": "https://borrachines.com.ar/wp-content/uploads/2022/10/Espumante-Santa-Julia-Classic-Cuvee-1-417651-jpg.webp",
     "title": "Santa Julia Champagne",
@@ -226,36 +230,6 @@
     "description": "Vionier / Cab. Franc / Malbec",
     "category": "Almacén"
   },
-
-  {
-    "image": "https://cepadevinos.com/wp-content/uploads/2023/08/trandional-tinto.png",
-    "title": "Cepa Tradicional",
-    "price": "$4990.00",
-    "description": "Blend / Semillón / Malbec",
-    "category": "Almacén"
-  },
-  {
-    "image": "https://acdn.mitiendanube.com/stores/001/211/660/products/esmeralda-ma-21-33fdede9349f3ee2a716149612301258-640-0.png",
-    "title": "Esmeralda",
-    "price": "$3990.00",
-    "description": "Red Blend / Cab. Sauv. / Malbec",
-    "category": "Almacén"
-  },
-  {
-    "image": "https://acdn.mitiendanube.com/stores/001/211/660/products/uxmal-cabernet-s1-b1d9ac461c0ec39a4016058255773457-640-0.jpg",
-    "title": "Uxmal",
-    "price": "$3950.00",
-    "description": "Cab. Sauv. / Malbec / Rosé",
-    "category": "Almacén"
-  },
-  {
-    "image": "https://acdn.mitiendanube.com/stores/001/786/803/products/tilia-malbec-4a5b5405984869e36517018757963017-1024-1024.png",
-    "title": "Tilia Orgánico",
-    "price": "$5990.00",
-    "description": "Chenín / Cab. Sauv. / Malbec / Chard.",
-    "category": "Almacén"
-  },
-
   {
     "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUsJZPFKjsQsNZFUvzGzREtQOs7sdHd-IAfQ&s",
     "title": "Celestial 6 LTS",
@@ -263,15 +237,13 @@
     "description": "Bidón de Agua Celestial 6 LTS",
     "category": "Almacén"
   },
-
   {
     "image": "https://www.mayoristasoto.com/10686-medium_default/papas-fritas-good-show-63g-clasicas.jpg",
     "title": "Good Show Papas Fritas",
-    "price": "$1350.00",
-    "description": "Good Show Papas 147g Clásicas",
+    "price": "$1450.00",
+    "description": "Good Show Papas 113g Clásicas",
     "category": "Almacén"
   },
-
   {
     "image": "https://i0.wp.com/cremigal.com/wp-content/uploads/2021/01/fla-pote.png?fit=2500%2C2500&ssl=1",
     "title": "Flan Cremigal",
@@ -279,7 +251,6 @@
     "description": "",
     "category": "Lácteos"
   },
-
   {
     "image": "https://gravitydevs.com/wproggiano/wp-content/uploads/2022/10/8-600x600.png",
     "title": "Roggiano Jamón Natural",
@@ -294,7 +265,6 @@
     "description": "Precio por Kilo",
     "category": "Fiambrería"
   },
-
   {
     "image": "https://acdn.mitiendanube.com/stores/861/458/products/181-3126e9cd2bf326723c15705626046671-640-0.jpg",
     "title": "Pechito de Cerdo",
