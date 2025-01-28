@@ -1,18 +1,27 @@
 [
   {
-    "image": "https://d1ks0wbvjr3pux.cloudfront.net/22165de0-7ba6-4938-ad7f-f9c721213612-lg.jpg",
-    "title": "Pepsi Cola",
-    "price": "$1990.00",
-    "description": "1500cc",
+    "image": "https://www.californiasa.com.ar/wp-content/uploads/7793147571856.jpg",
+    "title": "Schneider Lata 473cc",
+    "price": "$1241.00",
+    "description": "PRECIO POR LATA LLEVANDO 6 UNIDADES",
     "category": "Bebidas"
   },
   {
-    "image": "https://labebidadetusfiestas.com.ar/38635-large_default/cerveza-schneider-rubia-lata-473cc.jpg",
-    "title": "Schneider Rubia Lata",
-    "price": "$1490.00",
-    "description": "473cc",
+    "image": "https://acdn.mitiendanube.com/stores/001/163/250/products/mla920764481_6-7f109d53fbed8689c316795772205388-1024-1024.jpg",
+    "title": "Schneider Lata 710cc",
+    "price": "$2075.00",
+    "description": "PRECIO POR LATA LLEVANDO 6 UNIDADES",
     "category": "Bebidas"
   },
+  {
+    "image": "https://http2.mlstatic.com/D_NQ_NP_622584-MLU74828144376_032024-O.webp",
+    "title": "Felpita Rollo de Cocina x3",
+    "price": "$2990.00",
+    "description": "Infinity 100 Paños por Maxirrollo Doble Hoja",
+    "category": "Almacén"
+  },
+  
+ 
   {
     "image": "https://www.multifood.com.ar/images/000Z-001-002-02736482Z-001-002-027-GalloOroBolsa1K.jpg",
     "title": "Gallo Oro",
@@ -125,13 +134,7 @@
     "description": "Anticaries 70g",
     "category": "Almacén"
   },
-  {
-    "image": "https://www.californiasa.com.ar/wp-content/uploads/7792316000036.jpg",
-    "title": "La Victoria Ananá Fizz",
-    "price": "$2790.00",
-    "description": "720cc",
-    "category": "Bebidas"
-  },
+  
   {
     "image": "https://borrachines.com.ar/wp-content/uploads/2022/12/MONTCHENOT-EXTRA-BRUT-750ML-MERCADO-LIBRE.png",
     "title": "Montchenot Champagne",
