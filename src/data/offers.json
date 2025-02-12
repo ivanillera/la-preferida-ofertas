@@ -1,5 +1,19 @@
 [
   {
+    "image": "https://http2.mlstatic.com/D_621702-MLU72965883812_112023-C.jpg",
+    "title": "Sedal Shampoo y Acondicionador",
+    "price": "$2990.00",
+    "description": "300ml Repuesto Ceramidas/R.Instantánea/Balance",
+    "category": "Almacén"
+  },
+  {
+    "image": "https://assets.unileversolutions.com/v1/89129552.png",
+    "title": "Hellmann's Salsa Golf",
+    "price": "$1890.00",
+    "description": "Dp. 250g",
+    "category": "Almacén"
+  },
+  {
     "image": "https://www.californiasa.com.ar/wp-content/uploads/7793147571856.jpg",
     "title": "Schneider Lata 473cc",
     "price": "$1241.00",
@@ -43,13 +57,7 @@
     "description": "500g Premezcla Universal Sin TACC",
     "category": "Almacén"
   },
-  {
-    "image": "https://http2.mlstatic.com/D_NQ_NP_608198-MLA81393153643_122024-O.webp",
-    "title": "Tiyuca Tubo Papas Fritas",
-    "price": "$2950.00",
-    "description": "140g",
-    "category": "Almacén"
-  },
+
   {
     "image": "https://http2.mlstatic.com/D_NQ_NP_849752-MLA74126712987_012024-O.webp",
     "title": "Guaymallen x6 Fruta",
@@ -163,20 +171,7 @@
     "description": "400g",
     "category": "Almacén"
   },
-  {
-    "image": "https://carrefourar.vtexassets.com/arquivos/ids/518465/7500435153164_01.jpg?v=638507892367530000",
-    "title": "Oral B Pasta Dental",
-    "price": "$3390.00",
-    "description": "Cuidado 100% - 70g",
-    "category": "Almacén"
-  },
-  {
-    "image": "https://carrefourar.vtexassets.com/arquivos/ids/518472/7500435150248_02.jpg?v=638507892381330000",
-    "title": "Oral B Pasta Dental",
-    "price": "$2290.00",
-    "description": "Extra Blanco - 70g",
-    "category": "Almacén"
-  },
+
   {
     "image": "https://acdn.mitiendanube.com/stores/001/165/255/products/querubin-baja-espuma-3l-dp-749669adb387ccdad017003343777575-1024-1024.jpg",
     "title": "Querubín Baja Espuma",
