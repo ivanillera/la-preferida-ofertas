@@ -1,5 +1,12 @@
 [
   {
+    "image": "https://quem.com.ar/tienda/wp-content/uploads/2018/05/2000561000004-2.jpg",
+    "title": "Sojamax Milanesas de Soja Caseras ",
+    "price": "$2990.00",
+    "description": "4 Unidades | Todos los sabores",
+    "category": "Congelados"
+  },
+  {
     "image": "https://http2.mlstatic.com/D_621702-MLU72965883812_112023-C.jpg",
     "title": "Sedal Shampoo y Acondicionador",
     "price": "$2990.00",
@@ -187,6 +194,13 @@
     "category": "Lácteos"
   },
   {
+    "image": "https://www.puntadelagua.com.ar/wp-content/uploads/2020/08/HORMA-CREMOSO-1-400x400.png",
+    "title": "Punta del Agua Queso Cremoso",
+    "price": "$7990.00",
+    "description": "Precio por Kilo",
+    "category": "Lácteos"
+  },
+  {
     "image": "https://www.delimart.com.ar/user-content/a2603796-5b89-4140-af0c-23bcafd62371.jpg",
     "title": "Bio Agua Mineral",
     "price": "$370.00",
@@ -274,13 +288,6 @@
     "image": "https://gravitydevs.com/wproggiano/wp-content/uploads/2022/10/8-600x600.png",
     "title": "Roggiano Jamón Natural",
     "price": "$17500.00",
-    "description": "Precio por Kilo",
-    "category": "Fiambrería"
-  },
-  {
-    "image": "https://www.lacoopeencasa.coop/media/lcec/publico/articulos/9/f/f/9ffff26940e15a03148d9586671c2bba",
-    "title": "El Artesano Jamón Crudo",
-    "price": "$24000.00",
     "description": "Precio por Kilo",
     "category": "Fiambrería"
   }
