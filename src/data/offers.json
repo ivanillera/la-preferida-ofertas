@@ -1,4 +1,5 @@
 [
+
   {
     "image": "https://quem.com.ar/tienda/wp-content/uploads/2018/05/2000561000004-2.jpg",
     "title": "Sojamax Milanesas de Soja Caseras ",
@@ -41,8 +42,7 @@
     "description": "Infinity 100 Paños por Maxirrollo Doble Hoja",
     "category": "Almacén"
   },
-  
- 
+
   {
     "image": "https://www.multifood.com.ar/images/000Z-001-002-02736482Z-001-002-027-GalloOroBolsa1K.jpg",
     "title": "Gallo Oro",
@@ -73,6 +73,13 @@
     "category": "Almacén"
   },
   {
+    "image": "https://acdn.mitiendanube.com/stores/093/780/products/qw1-ecb159abc14a8da1c715596688298871-640-0.jpg",
+    "title": "Arcor Arvejas",
+    "price": "$990.00",
+    "description": "300g",
+    "category": "Almacén"
+  },
+  {
     "image": "https://statics.dinoonline.com.ar/imagenes/full_600x600_ma/2360124_f.jpg",
     "title": "Inalpa Arvejas",
     "price": "$590.00",
@@ -84,6 +91,13 @@
     "title": "Copa de Oro Duraznos en Trozos",
     "price": "$1690.00",
     "description": "485g",
+    "category": "Almacén"
+  },
+  {
+    "image": "https://www.anikashop.com.ar/product_images/p/118/suiza-autobrillo-doy-400ml-incoloro__67617_zoom.png",
+    "title": "Suiza Autobrillo",
+    "price": "$2390.00",
+    "description": "450ml Incoloro",
     "category": "Almacén"
   },
   {
@@ -149,7 +163,7 @@
     "description": "Anticaries 70g",
     "category": "Almacén"
   },
-  
+
   {
     "image": "https://borrachines.com.ar/wp-content/uploads/2022/12/MONTCHENOT-EXTRA-BRUT-750ML-MERCADO-LIBRE.png",
     "title": "Montchenot Champagne",
