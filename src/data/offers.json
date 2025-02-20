@@ -1,5 +1,25 @@
 [
-
+  {
+    "image": "https://alegriariojana.com/uploads/productos/503.jpg",
+    "title": "La Alegría Jamón Crudo",
+    "price": "$4290.00",
+    "description": "Crudo ESPAÑOL, precio x 100g",
+    "category": "Fiambrería"
+  },
+  {
+    "image": "https://www.lainsuperablevirtual.com.ar/Articulo_Foto_Multi/2203_0.jpeg",
+    "title": "San Michelle Jamón Crudo",
+    "price": "$10700.00",
+    "description": "ITALIANO 24 Meses, precio x 100g",
+    "category": "Fiambrería"
+  },
+  {
+    "image": "https://www.puntadelagua.com.ar/wp-content/uploads/2020/08/HORMA-CREMOSO-1-400x400.png",
+    "title": "Punta del Agua Queso Cremoso",
+    "price": "$729.00",
+    "description": "LLEVANDO HORMA, precio x 100g",
+    "category": "Fiambrería"
+  },
   {
     "image": "https://quem.com.ar/tienda/wp-content/uploads/2018/05/2000561000004-2.jpg",
     "title": "Sojamax Milanesas de Soja Caseras ",
@@ -66,13 +86,6 @@
   },
 
   {
-    "image": "https://http2.mlstatic.com/D_NQ_NP_849752-MLA74126712987_012024-O.webp",
-    "title": "Guaymallen x6 Fruta",
-    "price": "$1550.00",
-    "description": "",
-    "category": "Almacén"
-  },
-  {
     "image": "https://acdn.mitiendanube.com/stores/093/780/products/qw1-ecb159abc14a8da1c715596688298871-640-0.jpg",
     "title": "Arcor Arvejas",
     "price": "$990.00",
@@ -114,13 +127,7 @@
     "description": "Aquarapid 30cm",
     "category": "Almacén"
   },
-  {
-    "image": "https://prodelimptienda.com.ar/wp-content/uploads/2020/07/Captura-de-pantalla-2020-09-30-a-las-13.30.48.png",
-    "title": "Samantha Escoba",
-    "price": "$3990.00",
-    "description": "Super",
-    "category": "Almacén"
-  },
+
   {
     "image": "https://www.mink.com.ar/qloud/mym-dis/articulos/fotos/9310.jpg",
     "title": "Candela LED ",
@@ -165,19 +172,21 @@
   },
 
   {
+    "image": "",
+    "title": "Talisman Malbec",
+    "price": "$3490.00",
+    "description": "Norton Malbec y Cab. Sauvignon",
+    "category": "Bebidas"
+  },
+
+  {
     "image": "https://borrachines.com.ar/wp-content/uploads/2022/12/MONTCHENOT-EXTRA-BRUT-750ML-MERCADO-LIBRE.png",
     "title": "Montchenot Champagne",
     "price": "$9900.00",
     "description": "Extra Brut Champagne 750cc",
     "category": "Bebidas"
   },
-  {
-    "image": "https://arjosimarprod.vtexassets.com/arquivos/ids/170530/Atun-en-Lomitos-al-Natural-Bajo-Sodio-Bahia-170-gr-1-15187.jpg?v=638608773670570000",
-    "title": "Bahía Atún Bajo Sodio",
-    "price": "$2790.00",
-    "description": "Atún en Aceite o al Natural 170g",
-    "category": "Almacén"
-  },
+
   {
     "image": "https://acdn.mitiendanube.com/stores/003/184/367/products/oliva-1l1-499ca1a27a84455c9916848740918250-640-0.jpg",
     "title": "Olizvan Aceite de Oliva",
@@ -207,13 +216,7 @@
     "description": "400g",
     "category": "Lácteos"
   },
-  {
-    "image": "https://www.puntadelagua.com.ar/wp-content/uploads/2020/08/HORMA-CREMOSO-1-400x400.png",
-    "title": "Punta del Agua Queso Cremoso",
-    "price": "$7990.00",
-    "description": "Precio por Kilo",
-    "category": "Lácteos"
-  },
+
   {
     "image": "https://www.delimart.com.ar/user-content/a2603796-5b89-4140-af0c-23bcafd62371.jpg",
     "title": "Bio Agua Mineral",
@@ -297,12 +300,5 @@
     "price": "$450",
     "description": "",
     "category": "Lácteos"
-  },
-  {
-    "image": "https://gravitydevs.com/wproggiano/wp-content/uploads/2022/10/8-600x600.png",
-    "title": "Roggiano Jamón Natural",
-    "price": "$17500.00",
-    "description": "Precio por Kilo",
-    "category": "Fiambrería"
   }
 ]
