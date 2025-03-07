@@ -14,6 +14,20 @@
     "category": "Fiambrería"
   },
   {
+    "image": "https://sakoteacasa.com.ar/wp-content/uploads/2023/09/COCIDO-NATURAL-CABA%C3%91AS.png",
+    "title": "Cabaña Argentina Jamón Cocido Natural",
+    "price": "$16000.00",
+    "description": "Precio por Kilo",
+    "category": "Fiambrería"
+  },
+  {
+    "image": "https://alberdisa.vteximg.com.br/arquivos/ids/178540-1000-1000/carne-molida.png?v=638518998477200000",
+    "title": "Carne Picada",
+    "price": "$5890.00",
+    "description": "Precio por Kilo",
+    "category": "Carnicería"
+  },
+  {
     "image": "https://www.puntadelagua.com.ar/wp-content/uploads/2020/08/HORMA-CREMOSO-1-400x400.png",
     "title": "Punta del Agua Queso Cremoso",
     "price": "$729.00",
@@ -62,7 +76,20 @@
     "description": "Infinity 100 Paños por Maxirrollo Doble Hoja",
     "category": "Almacén"
   },
-
+  {
+    "image": "  https://cdn.batitienda.com/baticloud/images/product_picture_824672bbfe774718a91676af63614b43_637859769145469657_0_m.jpg",
+    "title": "Doncella Ultrafina",
+    "price": "$1690.00",
+    "description": "16 Unidades Dúo pack económico",
+    "category": "Almacén"
+  },
+  {
+    "image": "  https://tyna.com.ar/assets/archivos/recortadas/50531_7d9c7eefe0.webp",
+    "title": "Above Repelente",
+    "price": "$3990.00",
+    "description": "150ml",
+    "category": "Almacén"
+  },
   {
     "image": "https://www.multifood.com.ar/images/000Z-001-002-02736482Z-001-002-027-GalloOroBolsa1K.jpg",
     "title": "Gallo Oro",
@@ -143,6 +170,13 @@
     "category": "Almacén"
   },
   {
+    "image": "https://acdn-us.mitiendanube.com/stores/383/963/products/is-6518-3-lamp-led-9-w-fria-candela1-e8a9cc3adc850eff2016740704246151-640-0.png",
+    "title": "Candela LED ",
+    "price": "$990.00",
+    "description": "9WT Fría",
+    "category": "Almacén"
+  },
+  {
     "image": "https://acdn.mitiendanube.com/stores/002/889/113/products/49-67d04e854ccffd539b17157796699366-1024-1024.png",
     "title": "Catena Aceite de Oliva",
     "price": "$19900.00",
@@ -150,9 +184,9 @@
     "category": "Almacén"
   },
   {
-    "image": "https://http2.mlstatic.com/D_NQ_NP_708398-MLA47849652551_102021-O.webp",
+    "image": "https://jumboargentina.vtexassets.com/arquivos/ids/708521/Aceite-De-Oliva-Nucete-Cl-sico-500-Ml-2-246703.jpg?v=637922866071400000",
     "title": "Nucete Aceite de Oliva",
-    "price": "$11900.00",
+    "price": "$12900.00",
     "description": "Aceite de Oliva Virgen Extra Clásico 500ml",
     "category": "Almacén"
   },
@@ -176,6 +210,14 @@
     "title": "Talisman Malbec",
     "price": "$3490.00",
     "description": "Norton Malbec y Cab. Sauvignon",
+    "category": "Bebidas"
+  },
+
+  {
+    "image": "https://www.mercadodevinos.com.ar/wp-content/uploads/2017/01/bravio-malbec.jpg",
+    "title": "Bravío Malbec",
+    "price": "$2990.00",
+    "description": "Bodega Uxmal",
     "category": "Bebidas"
   },
 
