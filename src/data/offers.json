@@ -13,13 +13,6 @@
     "description": "ITALIANO 24 Meses, precio x 100g",
     "category": "Fiambrería"
   },
-  {
-    "image": "https://sakoteacasa.com.ar/wp-content/uploads/2023/09/COCIDO-NATURAL-CABA%C3%91AS.png",
-    "title": "Cabaña Argentina Jamón Cocido Natural",
-    "price": "$1600.00",
-    "description": "Precio por 100 grs",
-    "category": "Fiambrería"
-  },
 
   {
     "image": "https://quem.com.ar/tienda/wp-content/uploads/2018/05/2000561000004-2.jpg",
@@ -113,13 +106,7 @@
     "description": "300g",
     "category": "Almacén"
   },
-  {
-    "image": "https://http2.mlstatic.com/D_NQ_NP_984303-MLA71056838383_082023-O.webp",
-    "title": "Copa de Oro Duraznos en Trozos",
-    "price": "$1690.00",
-    "description": "485g",
-    "category": "Almacén"
-  },
+
   {
     "image": "https://www.anikashop.com.ar/product_images/p/118/suiza-autobrillo-doy-400ml-incoloro__67617_zoom.png",
     "title": "Suiza Autobrillo",
