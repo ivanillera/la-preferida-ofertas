@@ -4,7 +4,7 @@
     "title": "Quilmes Lata 473cc",
     "price": "$1325.00",
     "description": "PRECIO POR LATA LLEVANDO 6 UNIDADES",
-    "category": "Almacén"
+    "category": "Bebidas"
   },
   {
     "image": "https://statics.dinoonline.com.ar/imagenes/full_600x600_ma/3262792_f.jpg",
@@ -49,20 +49,7 @@
     "description": "Dp. 250g",
     "category": "Almacén"
   },
-  {
-    "image": "https://www.californiasa.com.ar/wp-content/uploads/7793147571856.jpg",
-    "title": "Schneider Lata 473cc",
-    "price": "$1241.00",
-    "description": "PRECIO POR LATA LLEVANDO 6 UNIDADES",
-    "category": "Bebidas"
-  },
-  {
-    "image": "https://acdn.mitiendanube.com/stores/001/163/250/products/mla920764481_6-7f109d53fbed8689c316795772205388-1024-1024.jpg",
-    "title": "Schneider Lata 710cc",
-    "price": "$2075.00",
-    "description": "PRECIO POR LATA LLEVANDO 6 UNIDADES",
-    "category": "Bebidas"
-  },
+
   {
     "image": "https://http2.mlstatic.com/D_NQ_NP_622584-MLU74828144376_032024-O.webp",
     "title": "Felpita Rollo de Cocina x3",
