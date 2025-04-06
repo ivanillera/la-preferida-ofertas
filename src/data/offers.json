@@ -1,5 +1,26 @@
 [
   {
+    "image": "https://alberdisa.vteximg.com.br/arquivos/ids/178540-1000-1000/carne-molida.png?v=638518998477200000",
+    "title": "Carne Picada 2KG",
+    "price": "$11990.00",
+    "description": "PRECIO LLEVANDO 2 KILOS",
+    "category": "Carnicería"
+  },
+  {
+    "image": "https://masonlineprod.vtexassets.com/arquivos/ids/246745/Porotos-Negros-La-Banda-340g-1-32958.jpg?v=637886793704130000",
+    "title": "La Banda Porotos Negros",
+    "price": "$890.00",
+    "description": "340g",
+    "category": "Almacén"
+  },
+  {
+    "image": "https://static.wixstatic.com/media/b540ec_c27ffb6de27e49ffbd6cf91bdb2f207b~mv2.jpg/v1/fit/w_500,h_500,q_90/file.jpg",
+    "title": "La Banda Porotos Negros",
+    "price": "$890.00",
+    "description": "340g",
+    "category": "Almacén"
+  },
+  {
     "image": "https://http2.mlstatic.com/D_NQ_NP_974243-MLA74651942036_022024-O.webp",
     "title": "Oral B Extra Blanco 70g",
     "price": "$3690.00",
@@ -33,27 +54,6 @@
     "price": "$5990.00",
     "description": "Vermouth Rosso 1LT",
     "category": "Bebidas"
-  },
-  {
-    "image": "https://statics.dinoonline.com.ar/imagenes/full_600x600_ma/3262792_f.jpg",
-    "title": "Apóstoles Leche UAT 1LT",
-    "price": "$1190.00",
-    "description": "Leche Clásica y Parcialmente Descremada",
-    "category": "Lácteos"
-  },
-  {
-    "image": "https://alegriariojana.com/uploads/productos/503.jpg",
-    "title": "La Alegría Jamón Crudo",
-    "price": "$4290.00",
-    "description": "Crudo ESPAÑOL, precio x 100g",
-    "category": "Fiambrería"
-  },
-  {
-    "image": "https://www.lainsuperablevirtual.com.ar/Articulo_Foto_Multi/2203_0.jpeg",
-    "title": "San Michelle Jamón Crudo",
-    "price": "$10700.00",
-    "description": "ITALIANO 24 Meses, precio x 100g",
-    "category": "Fiambrería"
   },
 
   {
@@ -112,13 +112,6 @@
     "price": "$599.00",
     "description": "2250ml",
     "category": "Bebidas"
-  },
-  {
-    "image": "https://todoscomen.produccionsocial.org.ar/wp-content/uploads/2023/05/premezcla.png",
-    "title": "Doña Pacha Premezcla",
-    "price": "$2700.00",
-    "description": "500g Premezcla Universal Sin TACC",
-    "category": "Almacén"
   },
 
   {
@@ -262,13 +255,7 @@
     "description": "500cc",
     "category": "Bebidas"
   },
-  {
-    "image": "https://cremigal.com/wp-content/uploads/2021/05/leche-entera-sachet-1L-1.png",
-    "title": "Cremigal Leche",
-    "price": "$1190.00",
-    "description": "Cremigal Leche Sachet Entera y Descremada",
-    "category": "Lácteos"
-  },
+
   {
     "image": "https://acdn.mitiendanube.com/stores/798/865/products/123929724-470061fb844c5bab7016844789900140-640-0.jpg",
     "title": "Secco Sifón 2L",
@@ -318,12 +305,5 @@
     "price": "$1450.00",
     "description": "Good Show Papas 113g Clásicas",
     "category": "Almacén"
-  },
-  {
-    "image": "https://i0.wp.com/cremigal.com/wp-content/uploads/2021/01/fla-pote.png?fit=2500%2C2500&ssl=1",
-    "title": "Flan Cremigal",
-    "price": "$450",
-    "description": "",
-    "category": "Lácteos"
   }
 ]
