@@ -1,5 +1,26 @@
 [
   {
+    "image": "https://i0.wp.com/jamoneslaestancia.com/wp-content/uploads/2021/05/Jamon-Crudo-Parma-Prosciutto-di-San-Daniele.jpg?fit=2050%2C1601&ssl=1",
+    "title": "San Danielle Crudo Italiano",
+    "price": "$8600.00",
+    "description": "24 meses, precio por 100g",
+    "category": "Fiambrería"
+  },
+  {
+    "image": "https://www.torredenunez.com/wp-content/uploads/2015/10/Jam%C3%B3n-Serrano-Gran-Reserva-Duroc-15-M-Corte-V-324x324.jpg",
+    "title": "Torre de Nuñez Crudo Serrano Español",
+    "price": "$4999.00",
+    "description": "18 meses, precio por 100g",
+    "category": "Fiambrería"
+  },
+  {
+    "image": "https://i0.wp.com/jamoneslaestancia.com/wp-content/uploads/2021/05/Jamon-Crudo-Parma-Val-del-Cinghio.jpg?fit=2050%2C1601&ssl=1",
+    "title": "San Michelle Crudo Italiano",
+    "price": "$4990.00",
+    "description": "12 meses, precio por 100g",
+    "category": "Fiambrería"
+  },
+  {
     "image": "https://www.millerchemical.com/es/wp-content/uploads/sites/2/2021/03/eggplant-467346706.png",
     "title": "Berenjena",
     "price": "$890.00",
