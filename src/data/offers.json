@@ -34,13 +34,7 @@
     "description": "750cc",
     "category": "Almacén"
   },
-  {
-    "image": "https://media.tada.com.ar/produc_variant/00003514_b5e1b2f9-2793-4dee-9408-5a13f7f64767.jpg",
-    "title": "Smirnoff Vodka Regular",
-    "price": "$7500.00",
-    "description": "700ml",
-    "category": "Almacén"
-  },
+
   {
     "image": "https://mall.icbc.com.ar/24832083-large_default/smirnoff-saborizado-x-6-uniades.jpg",
     "title": "Smirnoff Vodka Saborizado",
@@ -69,27 +63,8 @@
     "description": "500g",
     "category": "Almacén"
   },
-  {
-    "image": "https://i0.wp.com/jamoneslaestancia.com/wp-content/uploads/2021/05/Jamon-Crudo-Parma-Prosciutto-di-San-Daniele.jpg?fit=2050%2C1601&ssl=1",
-    "title": "San Danielle Crudo Italiano",
-    "price": "$8600.00",
-    "description": "24 meses, precio por 100g",
-    "category": "Fiambrería"
-  },
-  {
-    "image": "https://www.torredenunez.com/wp-content/uploads/2015/10/Jam%C3%B3n-Serrano-Gran-Reserva-Duroc-15-M-Corte-V-324x324.jpg",
-    "title": "Torre de Nuñez Crudo Serrano Español",
-    "price": "$4999.00",
-    "description": "18 meses, precio por 100g",
-    "category": "Fiambrería"
-  },
-  {
-    "image": "https://i0.wp.com/jamoneslaestancia.com/wp-content/uploads/2021/05/Jamon-Crudo-Parma-Val-del-Cinghio.jpg?fit=2050%2C1601&ssl=1",
-    "title": "San Michelle Crudo Italiano",
-    "price": "$4990.00",
-    "description": "12 meses, precio por 100g",
-    "category": "Fiambrería"
-  },
+
+
   {
     "image": "https://www.millerchemical.com/es/wp-content/uploads/sites/2/2021/03/eggplant-467346706.png",
     "title": "Berenjena",
@@ -198,7 +173,7 @@
   {
     "image": "https://www.anikashop.com.ar/product_images/p/118/suiza-autobrillo-doy-400ml-incoloro__67617_zoom.png",
     "title": "Suiza Autobrillo",
-    "price": "$2390.00",
+    "price": "$2490.00",
     "description": "450ml Incoloro",
     "category": "Almacén"
   },
@@ -262,7 +237,7 @@
   {
     "image": "https://www.anikashop.com.ar/product_images/c/177/470-321-01_A__61945_zoom.jpg",
     "title": "Colgate Pasta Dental",
-    "price": "$1490.00",
+    "price": "$1900.00",
     "description": "Anticaries 70g",
     "category": "Almacén"
   },
@@ -283,18 +258,12 @@
     "category": "Bebidas"
   },
 
-  {
-    "image": "https://borrachines.com.ar/wp-content/uploads/2022/12/MONTCHENOT-EXTRA-BRUT-750ML-MERCADO-LIBRE.png",
-    "title": "Montchenot Champagne",
-    "price": "$9900.00",
-    "description": "Extra Brut Champagne 750cc",
-    "category": "Bebidas"
-  },
+
 
   {
     "image": "https://arcordiezb2c.vteximg.com.br/arquivos/ids/156925/PALMITOS-CUMANA-ETROZOS-1-1331.jpg?v=637432171584100000",
     "title": "Cumaná Palmitos en Trozos",
-    "price": "$1690.00",
+    "price": "$1590.00",
     "description": "400g",
     "category": "Almacén"
   },
