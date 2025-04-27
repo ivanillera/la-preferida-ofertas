@@ -1,5 +1,27 @@
 [
   {
+    "image": "https://productospozo.com.ar/site/images/productos/magdalenas/magdalenas-clasicas.jpg",
+    "title": "Pozo Magdalenas",
+    "price": "$1250.00",
+    "description": "Clásicas / Chips / Chocolate / Marmoladas",
+    "category": "Almacén"
+  },
+  {
+    "image": "https://productospozo.com.ar/site/images/productos/vainillas/vainillas-7.jpg",
+    "title": "Pozo Vainillas",
+    "price": "$1550.00",
+    "description": "296g 24 Unidades",
+    "category": "Almacén"
+  },
+  {
+    "image": "https://lh5.googleusercontent.com/proxy/YotOx-b5TQAkhLo62_CwLz35d-vdIudeCksL6eBiGczZngYglYA-iBbx3wh9wHmoL3tOQkjeF_37Kk3KP1IebgmZOzpwpSkNeoeE4JFJvw-9N5E",
+    "title": "Manieri Tostadas",
+    "price": "$790.00",
+    "description": "200g Todas las variedades",
+    "category": "Almacén"
+  },
+
+  {
     "image": "https://www.mayoristasoto.com/7975-medium_default/stella-artois-473cc.jpg",
     "title": "Stella Artois Lata 473cc",
     "price": "$1990.00",
