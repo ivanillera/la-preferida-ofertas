@@ -1,5 +1,19 @@
 [
   {
+    "image": "https://www.gastronomiavasca.net/uploads/image/file/3368/espinacas.jpg",
+    "title": "Espinaca",
+    "price": "$1390.00",
+    "description": "OFERTA LLEVANDO 2 PAQUETES",
+    "category": "Verdulería"
+  },
+  {
+    "image": "https://arcordiezb2c.vteximg.com.br/arquivos/ids/170601/Jabon-en-Polvo-Matic-Ecolavado-Ala-800-Gr-1-11471.jpg?v=637862277898430000",
+    "title": "Ala Eco Lavado",
+    "price": "$1990.00",
+    "description": "800+100g MATIC",
+    "category": "Almacén"
+  },
+  {
     "image": "https://productospozo.com.ar/site/images/productos/magdalenas/magdalenas-clasicas.jpg",
     "title": "Pozo Magdalenas",
     "price": "$1250.00",
