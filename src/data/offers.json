@@ -1,11 +1,33 @@
 [
   {
-    "image": "https://www.gastronomiavasca.net/uploads/image/file/3368/espinacas.jpg",
-    "title": "Espinaca",
-    "price": "$1390.00",
-    "description": "OFERTA LLEVANDO 2 PAQUETES",
-    "category": "Verdulería"
+    "image": "https://images.rappi.com.ar/products/a5628ab0-dc10-4feb-855a-bd5fe9859016.png",
+    "title": "Cindor Chocolatada 200ml",
+    "price": "$1050.00",
+    "description": "",
+    "category": "Lácteos"
   },
+  {
+    "image": "https://clickandfoods.com/cdn/shop/products/7791337991071_02_1_1200x1200.jpg?v=1596957197",
+    "title": "Cindor Chocolatada 1LT",
+    "price": "$2990.00",
+    "description": "",
+    "category": "Lácteos"
+  },
+   {
+    "image": "https://tienda.pasosonline.com.ar/wp-content/uploads/2024/02/image-removebg-preview-31-removebg-preview-removebg-preview.png",
+    "title": "Schneider 473cc",
+    "price": "$1390.00",
+    "description": "Schneider Lata 473cc",
+    "category": "Bebidas"
+  },
+   {
+    "image": "https://vinotecamasis.com.ar/wp-content/uploads/2022/09/Cerveza-Brahma-Lata-473-ml.png",
+    "title": "Brahma 473cc",
+    "price": "$1490.00",
+    "description": "Brahma Lata 473cc",
+    "category": "Bebidas"
+  },
+
   {
     "image": "https://arcordiezb2c.vteximg.com.br/arquivos/ids/170601/Jabon-en-Polvo-Matic-Ecolavado-Ala-800-Gr-1-11471.jpg?v=637862277898430000",
     "title": "Ala Eco Lavado",
@@ -27,21 +49,9 @@
     "description": "296g 24 Unidades",
     "category": "Almacén"
   },
-  {
-    "image": "https://lh5.googleusercontent.com/proxy/YotOx-b5TQAkhLo62_CwLz35d-vdIudeCksL6eBiGczZngYglYA-iBbx3wh9wHmoL3tOQkjeF_37Kk3KP1IebgmZOzpwpSkNeoeE4JFJvw-9N5E",
-    "title": "Manieri Tostadas",
-    "price": "$790.00",
-    "description": "200g Todas las variedades",
-    "category": "Almacén"
-  },
 
-  {
-    "image": "https://www.mayoristasoto.com/7975-medium_default/stella-artois-473cc.jpg",
-    "title": "Stella Artois Lata 473cc",
-    "price": "$1990.00",
-    "description": "",
-    "category": "Bebidas"
-  },
+
+
 
   {
     "image": "https://statics.dinoonline.com.ar/imagenes/large_460x460/2050003_l.jpg",
@@ -66,13 +76,6 @@
   },
 
   {
-    "image": "https://mall.icbc.com.ar/24832083-large_default/smirnoff-saborizado-x-6-uniades.jpg",
-    "title": "Smirnoff Vodka Saborizado",
-    "price": "$6990.00",
-    "description": "Todos los sabores | 700ml",
-    "category": "Almacén"
-  },
-  {
     "image": "https://www.lacoopeencasa.coop/media/lcec/publico/articulos/e/b/e/ebe45c257798a501f1ff5a8da5ea757c",
     "title": "Ledezma Azúcar Rubio Mascabo",
     "price": "$1690.00",
@@ -86,23 +89,8 @@
     "description": "500g",
     "category": "Almacén"
   },
-  {
-    "image": "https://jumboargentina.vtexassets.com/arquivos/ids/853364/Pan-Rallado-Ca-uelas-X1kg-1-859001.jpg?v=638731569674030000",
-    "title": "Cañuelas Pan Rallado",
-    "price": "$890.00",
-    "description": "500g",
-    "category": "Almacén"
-  },
 
 
-
-  {
-    "image": "https://alberdisa.vteximg.com.br/arquivos/ids/178540-1000-1000/carne-molida.png?v=638518998477200000",
-    "title": "Carne Picada 2KG",
-    "price": "$11990.00",
-    "description": "PRECIO LLEVANDO 2 KILOS",
-    "category": "Carnicería"
-  },
   {
     "image": "https://masonlineprod.vtexassets.com/arquivos/ids/246745/Porotos-Negros-La-Banda-340g-1-32958.jpg?v=637886793704130000",
     "title": "La Banda Porotos Negros",
@@ -171,13 +159,6 @@
     "category": "Almacén"
   },
 
-  {
-    "image": "https://www.lacoopeencasa.coop/media/lcec/publico/articulos/6/d/e/6de1359d8fe4e812824bb8226224e9b5",
-    "title": "Bio Agua Mineral",
-    "price": "$599.00",
-    "description": "2250ml",
-    "category": "Bebidas"
-  },
 
   {
     "image": "https://acdn.mitiendanube.com/stores/093/780/products/qw1-ecb159abc14a8da1c715596688298871-640-0.jpg",
@@ -244,13 +225,7 @@
     "description": "Aceite de Oliva Virgen Extra 500ml Blend Suave/Familia/Robusto",
     "category": "Almacén"
   },
-  {
-    "image": "https://jumboargentina.vtexassets.com/arquivos/ids/708521/Aceite-De-Oliva-Nucete-Cl-sico-500-Ml-2-246703.jpg?v=637922866071400000",
-    "title": "Nucete Aceite de Oliva",
-    "price": "$12900.00",
-    "description": "Aceite de Oliva Virgen Extra Clásico 500ml",
-    "category": "Almacén"
-  },
+
   {
     "image": "https://dcdn.mitiendanube.com/stores/002/375/265/products/floripel1-52cfc63d397643e75616630695194978-480-0.png",
     "title": "Floripel Rollos de Papel Higiénico",
@@ -301,13 +276,7 @@
     "category": "Lácteos"
   },
 
-  {
-    "image": "https://www.delimart.com.ar/user-content/a2603796-5b89-4140-af0c-23bcafd62371.jpg",
-    "title": "Bio Agua Mineral",
-    "price": "$370.00",
-    "description": "500cc",
-    "category": "Bebidas"
-  },
+ 
 
   {
     "image": "https://acdn.mitiendanube.com/stores/798/865/products/123929724-470061fb844c5bab7016844789900140-640-0.jpg",
