@@ -1,30 +1,9 @@
 [
   {
-    "image": "https://images.rappi.com.ar/products/a5628ab0-dc10-4feb-855a-bd5fe9859016.png",
-    "title": "Cindor Chocolatada 200ml",
-    "price": "$1050.00",
-    "description": "",
-    "category": "Lácteos"
-  },
-  {
-    "image": "https://clickandfoods.com/cdn/shop/products/7791337991071_02_1_1200x1200.jpg?v=1596957197",
-    "title": "Cindor Chocolatada 1LT",
-    "price": "$2990.00",
-    "description": "",
-    "category": "Lácteos"
-  },
-   {
     "image": "https://tienda.pasosonline.com.ar/wp-content/uploads/2024/02/image-removebg-preview-31-removebg-preview-removebg-preview.png",
     "title": "Schneider 473cc",
-    "price": "$1390.00",
+    "price": "$1290.00",
     "description": "Schneider Lata 473cc",
-    "category": "Bebidas"
-  },
-   {
-    "image": "https://vinotecamasis.com.ar/wp-content/uploads/2022/09/Cerveza-Brahma-Lata-473-ml.png",
-    "title": "Brahma 473cc",
-    "price": "$1490.00",
-    "description": "Brahma Lata 473cc",
     "category": "Bebidas"
   },
 
@@ -38,20 +17,17 @@
   {
     "image": "https://productospozo.com.ar/site/images/productos/magdalenas/magdalenas-clasicas.jpg",
     "title": "Pozo Magdalenas",
-    "price": "$1250.00",
+    "price": "$1330.00",
     "description": "Clásicas / Chips / Chocolate / Marmoladas",
     "category": "Almacén"
   },
   {
     "image": "https://productospozo.com.ar/site/images/productos/vainillas/vainillas-7.jpg",
     "title": "Pozo Vainillas",
-    "price": "$1550.00",
+    "price": "$1590.00",
     "description": "296g 24 Unidades",
     "category": "Almacén"
   },
-
-
-
 
   {
     "image": "https://statics.dinoonline.com.ar/imagenes/large_460x460/2050003_l.jpg",
@@ -63,7 +39,7 @@
   {
     "image": "https://www.rimoldimayorista.com.ar/datos/uploads/mod_catalogo/31308/heroe-limpiador-6438523799a85.jpg",
     "title": "Héroe Limpiador de Pisos",
-    "price": "$890.00",
+    "price": "$899.00",
     "description": "900cc",
     "category": "Almacén"
   },
@@ -76,25 +52,17 @@
   },
 
   {
-    "image": "https://www.lacoopeencasa.coop/media/lcec/publico/articulos/e/b/e/ebe45c257798a501f1ff5a8da5ea757c",
-    "title": "Ledezma Azúcar Rubio Mascabo",
-    "price": "$1690.00",
-    "description": "800g",
-    "category": "Almacén"
-  },
-  {
     "image": "https://azucarledesma.com/wp-content/uploads/2023/05/Ledesma-Light-500g-Etiquetado-1.png",
     "title": "Ledezcma Azúcar Light",
-    "price": "$1590.00",
+    "price": "$1690.00",
     "description": "500g",
     "category": "Almacén"
   },
 
-
   {
     "image": "https://masonlineprod.vtexassets.com/arquivos/ids/246745/Porotos-Negros-La-Banda-340g-1-32958.jpg?v=637886793704130000",
     "title": "La Banda Porotos Negros",
-    "price": "$890.00",
+    "price": "$790.00",
     "description": "340g",
     "category": "Almacén"
   },
@@ -113,28 +81,12 @@
     "category": "Almacén"
   },
 
-
-  {
-    "image": "https://labebidadetusfiestas.com.ar/38060-thickbox_default/martini-rosso-1000cc.jpg",
-    "title": "Martini Rosso 1LT",
-    "price": "$5990.00",
-    "description": "Vermouth Rosso 1LT",
-    "category": "Bebidas"
-  },
-
   {
     "image": "https://quem.com.ar/tienda/wp-content/uploads/2018/05/2000561000004-2.jpg",
     "title": "Sojamax Milanesas de Soja Caseras ",
     "price": "$2200.00",
     "description": "4 Unidades | Todos los sabores",
     "category": "Congelados"
-  },
-  {
-    "image": "https://http2.mlstatic.com/D_621702-MLU72965883812_112023-C.jpg",
-    "title": "Sedal Shampoo y Acondicionador",
-    "price": "$2990.00",
-    "description": "300ml Repuesto Ceramidas/R.Instantánea/Balance",
-    "category": "Almacén"
   },
 
   {
@@ -159,7 +111,6 @@
     "category": "Almacén"
   },
 
-
   {
     "image": "https://acdn.mitiendanube.com/stores/093/780/products/qw1-ecb159abc14a8da1c715596688298871-640-0.jpg",
     "title": "Arcor Arvejas",
@@ -175,13 +126,6 @@
     "category": "Almacén"
   },
 
-  {
-    "image": "https://www.anikashop.com.ar/product_images/p/118/suiza-autobrillo-doy-400ml-incoloro__67617_zoom.png",
-    "title": "Suiza Autobrillo",
-    "price": "$2490.00",
-    "description": "450ml Incoloro",
-    "category": "Almacén"
-  },
   {
     "image": "https://osvaldomarcolini.com/2672-large_default/secador-piso-plastico-3m-fiorentina-doble-goma-40-.jpg",
     "title": "Fiorentina Secador de Piso",
@@ -234,7 +178,6 @@
     "category": "Almacén"
   },
 
-
   {
     "image": "https://shop.norton.com.ar/cdn/shop/files/Talisman-Malbec_1000x1000_38b99029-c6f5-4c2d-8d52-7670bd939b39_1200x1200.png?v=1692878275",
     "title": "Talisman Malbec",
@@ -251,23 +194,6 @@
     "category": "Bebidas"
   },
 
-
-
-  {
-    "image": "https://arcordiezb2c.vteximg.com.br/arquivos/ids/156925/PALMITOS-CUMANA-ETROZOS-1-1331.jpg?v=637432171584100000",
-    "title": "Cumaná Palmitos en Trozos",
-    "price": "$1590.00",
-    "description": "400g",
-    "category": "Almacén"
-  },
-
-  {
-    "image": "https://acdn.mitiendanube.com/stores/001/165/255/products/querubin-baja-espuma-3l-dp-749669adb387ccdad017003343777575-1024-1024.jpg",
-    "title": "Querubín Baja Espuma",
-    "price": "$6900.00",
-    "description": "Líquido para lavar Ropa 3L",
-    "category": "Almacén"
-  },
   {
     "image": "https://www.puntadelagua.com.ar/wp-content/uploads/2023/05/DULCE-DE-LECHE-400-400x400.png",
     "title": "Punta del Agua Dulce de Leche",
@@ -275,8 +201,6 @@
     "description": "400g",
     "category": "Lácteos"
   },
-
- 
 
   {
     "image": "https://acdn.mitiendanube.com/stores/798/865/products/123929724-470061fb844c5bab7016844789900140-640-0.jpg",
@@ -295,18 +219,11 @@
   {
     "image": "https://cdn.batitienda.com/baticloud/images/product_picture_fac74747e2d24f36b0303e953f96b030_637857599714214058_0_m.webp",
     "title": "L'eau Vive Coloración Kit",
-    "price": "$2400.00",
+    "price": "$2490.00",
     "description": "",
     "category": "Almacén"
   },
 
-  {
-    "image": "https://borrachines.com.ar/wp-content/uploads/2022/10/Espumante-Santa-Julia-Classic-Cuvee-1-417651-jpg.webp",
-    "title": "Santa Julia Champagne",
-    "price": "$5990.00",
-    "description": "Sta Julia Espumante Cuvée Extra Brut",
-    "category": "Bebidas"
-  },
   {
     "image": "https://lh6.googleusercontent.com/proxy/S3w4yd7ZztXATB7xmqFiR7PLH1Mx6Li4M05wkSZ9iFs2uIwmtiMPvZJwEcdsMo-IyBOXuVc4MbKz030aoPVpwmhG2lUmoEGhb96qWmMF3EE-mSI",
     "title": "Nicasia",
@@ -317,15 +234,8 @@
   {
     "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUsJZPFKjsQsNZFUvzGzREtQOs7sdHd-IAfQ&s",
     "title": "Celestial 6 LTS",
-    "price": "$1850.00",
+    "price": "$2150.00",
     "description": "Bidón de Agua Celestial 6 LTS",
     "category": "Bebidas"
-  },
-  {
-    "image": "https://www.mayoristasoto.com/10686-medium_default/papas-fritas-good-show-63g-clasicas.jpg",
-    "title": "Good Show Papas Fritas",
-    "price": "$1450.00",
-    "description": "Good Show Papas 113g Clásicas",
-    "category": "Almacén"
   }
 ]
